@@ -1,4 +1,4 @@
-#Rosen_Sawatzki_SIV_B08_EliteContoller_DE
+# Rosen_Sawatzki_SIV_B08_EliteContoller_DE
 Details the analysis procedure for differential expression analysis of B*08+/- rhesus macaque whole blood samples collected during acute SIVmac239 infection. Variables were unvaccinated controls, or vaccinated with Vif and Nef. Primary outcome is elite controller or common progressor status following challenge.
 
 Codes for trimming, filtering, alignment and counting in Preprocessing folder. Output from MrQCSluice and pathogen check of processed data in Analysis. R script for count normalization, DE analysis and figures in Analysis. 
