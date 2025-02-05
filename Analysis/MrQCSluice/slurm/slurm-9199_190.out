@@ -1,0 +1,5 @@
+For file  /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/SG_Watkins_07_WB/SawatzkiAnalysis_2/mapping/G191_Watkins07_AVR_rh3048_B_D7_RNA1_Lib1_GL121_S52_nohmrRNA_noglobinAligned.sortedByCoord.out.bam  with ID  190  Save in  /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/SG_Watkins_07_WB/SawatzkiAnalysis_2/mapping/G191_Watkins07_AVR_rh3048_B_D7_RNA1_Lib1_GL121_S52_nohmrRNA_noglobinAligned.sortedByCoord.out.vcf
+Running mpileup
+Note: none of --samples-file, --ploidy or --ploidy-file given, assuming all sites are diploid
+[mpileup] 1 samples in 1 input files
+[mpileup] maximum number of reads per input file set to -d 250

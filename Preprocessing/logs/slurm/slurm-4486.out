@@ -1,0 +1,1275 @@
+
+                        Quality-/Adapter-/RRBS-/Speciality-Trimming
+                                [powered by Cutadapt]
+                                  version 0.6.10
+
+                               Last update: 02 02 2023
+
+Number samples = 245 R1 files, should be 245
+Number samples = 245 R2 files, should be 245
+Counter variable 0
+Trim Galore running...
+../final-fastq-set/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz
+../final-fastq-set/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz
+../final-fastq-set/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G211_Watkins07_AVR_r16007_B_D168_RNA1_Lib1_GL102_S105_R1_001.fastq.gz
+../final-fastq-set/G211_Watkins07_AVR_r16007_B_D168_RNA1_Lib1_GL102_S105_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz
+../final-fastq-set/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz
+../final-fastq-set/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz
+../final-fastq-set/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+pigz 2.6
+pigz 2.6
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 6
+Trim Galore running...
+../final-fastq-set/G215_Watkins07_AVR_rh2943_B_D168_RNA1_Lib1_GL104_S42_R1_001.fastq.gz
+../final-fastq-set/G215_Watkins07_AVR_rh2943_B_D168_RNA1_Lib1_GL104_S42_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G216_Watkins07_AVR_rh3006_B_D168_RNA1_Lib1_GL102_S11_R1_001.fastq.gz
+../final-fastq-set/G216_Watkins07_AVR_rh3006_B_D168_RNA1_Lib1_GL102_S11_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G217_Watkins07_AVR_rh3011_B_D168_RNA1_Lib1_GL102_S31_R1_001.fastq.gz
+../final-fastq-set/G217_Watkins07_AVR_rh3011_B_D168_RNA1_Lib1_GL102_S31_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G218_Watkins07_AVR_rh3032_B_D168_RNA1_Lib1_GL102_S62_R1_001.fastq.gz
+../final-fastq-set/G218_Watkins07_AVR_rh3032_B_D168_RNA1_Lib1_GL102_S62_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G219_Watkins07_AVR_rh3033_B_D168_RNA1_Lib1_GL104_S51_R1_001.fastq.gz
+../final-fastq-set/G219_Watkins07_AVR_rh3033_B_D168_RNA1_Lib1_GL104_S51_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G220_Watkins07_AVR_rh3036_B_D168_RNA1_Lib1_GL104_S50_R1_001.fastq.gz
+../final-fastq-set/G220_Watkins07_AVR_rh3036_B_D168_RNA1_Lib1_GL104_S50_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 12
+Trim Galore running...
+../final-fastq-set/G221_Watkins07_AVR_rh3037_B_D168_RNA1_Lib1_GL105_S57_R1_001.fastq.gz
+../final-fastq-set/G221_Watkins07_AVR_rh3037_B_D168_RNA1_Lib1_GL105_S57_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G222_Watkins07_AVR_rh3045_B_D168_RNA1_Lib1_GL102_S4_R1_001.fastq.gz
+../final-fastq-set/G222_Watkins07_AVR_rh3045_B_D168_RNA1_Lib1_GL102_S4_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G223_Watkins07_AVR_rh3048_B_D168_RNA1_Lib1_GL104_S53_R1_001.fastq.gz
+../final-fastq-set/G223_Watkins07_AVR_rh3048_B_D168_RNA1_Lib1_GL104_S53_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G224_Watkins07_AVR_rh3053_B_D168_RNA1_Lib1_GL104_S23_R1_001.fastq.gz
+../final-fastq-set/G224_Watkins07_AVR_rh3053_B_D168_RNA1_Lib1_GL104_S23_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G225_Watkins07_AVR_r08014_B_D196_RNA1_Lib1_GL104_S96_R1_001.fastq.gz
+../final-fastq-set/G225_Watkins07_AVR_r08014_B_D196_RNA1_Lib1_GL104_S96_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G226_Watkins07_AVR_r14065_B_D196_RNA1_Lib1_GL104_S102_R1_001.fastq.gz
+../final-fastq-set/G226_Watkins07_AVR_r14065_B_D196_RNA1_Lib1_GL104_S102_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 18
+Trim Galore running...
+../final-fastq-set/G227_Watkins07_AVR_r16007_B_D196_RNA1_Lib1_GL102_S77_R1_001.fastq.gz
+../final-fastq-set/G227_Watkins07_AVR_r16007_B_D196_RNA1_Lib1_GL102_S77_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G228_Watkins07_AVR_r17017_B_D196_RNA1_Lib1_GL105_S70_R1_001.fastq.gz
+../final-fastq-set/G228_Watkins07_AVR_r17017_B_D196_RNA1_Lib1_GL105_S70_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G229_Watkins07_AVR_r17115_B_D196_RNA1_Lib1_GL104_S105_R1_001.fastq.gz
+../final-fastq-set/G229_Watkins07_AVR_r17115_B_D196_RNA1_Lib1_GL104_S105_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G230_Watkins07_AVR_rh2932_B_D196_RNA1_Lib1_GL102_S32_R1_001.fastq.gz
+../final-fastq-set/G230_Watkins07_AVR_rh2932_B_D196_RNA1_Lib1_GL102_S32_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G231_Watkins07_AVR_rh2943_B_D196_RNA1_Lib1_GL105_S96_R1_001.fastq.gz
+../final-fastq-set/G231_Watkins07_AVR_rh2943_B_D196_RNA1_Lib1_GL105_S96_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G232_Watkins07_AVR_rh3006_B_D196_RNA1_Lib1_GL105_S79_R1_001.fastq.gz
+../final-fastq-set/G232_Watkins07_AVR_rh3006_B_D196_RNA1_Lib1_GL105_S79_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 24
+Trim Galore running...
+../final-fastq-set/G233_Watkins07_AVR_rh3011_B_D196_RNA1_Lib1_GL105_S73_R1_001.fastq.gz
+../final-fastq-set/G233_Watkins07_AVR_rh3011_B_D196_RNA1_Lib1_GL105_S73_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G234_Watkins07_AVR_rh3032_B_D196_RNA1_Lib1_GL104_S22_R1_001.fastq.gz
+../final-fastq-set/G234_Watkins07_AVR_rh3032_B_D196_RNA1_Lib1_GL104_S22_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G235_Watkins07_AVR_rh3033_B_D196_RNA1_Lib1_GL104_S85_R1_001.fastq.gz
+../final-fastq-set/G235_Watkins07_AVR_rh3033_B_D196_RNA1_Lib1_GL104_S85_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G236_Watkins07_AVR_rh3036_B_D196_RNA1_Lib1_GL102_S37_R1_001.fastq.gz
+../final-fastq-set/G236_Watkins07_AVR_rh3036_B_D196_RNA1_Lib1_GL102_S37_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G237_Watkins07_AVR_rh3037_B_D196_RNA1_Lib1_GL102_S68_R1_001.fastq.gz
+../final-fastq-set/G237_Watkins07_AVR_rh3037_B_D196_RNA1_Lib1_GL102_S68_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G238_Watkins07_AVR_rh3045_B_D196_RNA1_Lib1_GL104_S91_R1_001.fastq.gz
+../final-fastq-set/G238_Watkins07_AVR_rh3045_B_D196_RNA1_Lib1_GL104_S91_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 30
+Trim Galore running...
+../final-fastq-set/G239_Watkins07_AVR_rh3048_B_D196_RNA1_Lib1_GL102_S79_R1_001.fastq.gz
+../final-fastq-set/G239_Watkins07_AVR_rh3048_B_D196_RNA1_Lib1_GL102_S79_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G240_Watkins07_AVR_rh3053_B_D196_RNA1_Lib1_GL102_S18_R1_001.fastq.gz
+../final-fastq-set/G240_Watkins07_AVR_rh3053_B_D196_RNA1_Lib1_GL102_S18_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G241_Watkins07_AVR_r08014_B_D224_RNA1_Lib1_GL105_S98_R1_001.fastq.gz
+../final-fastq-set/G241_Watkins07_AVR_r08014_B_D224_RNA1_Lib1_GL105_S98_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G242_Watkins07_AVR_r14065_B_D224_RNA1_Lib1_GL102_S54_R1_001.fastq.gz
+../final-fastq-set/G242_Watkins07_AVR_r14065_B_D224_RNA1_Lib1_GL102_S54_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G243_Watkins07_AVR_r16007_B_D224_RNA1_Lib1_GL102_S33_R1_001.fastq.gz
+../final-fastq-set/G243_Watkins07_AVR_r16007_B_D224_RNA1_Lib1_GL102_S33_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G244_Watkins07_AVR_r17017_B_D224_RNA2_Lib1_GL102_S100_R1_001.fastq.gz
+../final-fastq-set/G244_Watkins07_AVR_r17017_B_D224_RNA2_Lib1_GL102_S100_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 36
+Trim Galore running...
+../final-fastq-set/G245_Watkins07_AVR_r17115_B_D224_RNA1_Lib1_GL102_S59_R1_001.fastq.gz
+../final-fastq-set/G245_Watkins07_AVR_r17115_B_D224_RNA1_Lib1_GL102_S59_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G246_Watkins07_AVR_rh2932_B_D224_RNA1_Lib1_GL102_S2_R1_001.fastq.gz
+../final-fastq-set/G246_Watkins07_AVR_rh2932_B_D224_RNA1_Lib1_GL102_S2_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G247_Watkins07_AVR_rh2943_B_D224_RNA1_Lib1_GL104_S82_R1_001.fastq.gz
+../final-fastq-set/G247_Watkins07_AVR_rh2943_B_D224_RNA1_Lib1_GL104_S82_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G248_Watkins07_AVR_rh3006_B_D224_RNA1_Lib1_GL102_S22_R1_001.fastq.gz
+../final-fastq-set/G248_Watkins07_AVR_rh3006_B_D224_RNA1_Lib1_GL102_S22_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G249_Watkins07_AVR_rh3011_B_D224_RNA1_Lib1_GL102_S53_R1_001.fastq.gz
+../final-fastq-set/G249_Watkins07_AVR_rh3011_B_D224_RNA1_Lib1_GL102_S53_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G250_Watkins07_AVR_rh3032_B_D224_RNA1_Lib1_GL102_S84_R1_001.fastq.gz
+../final-fastq-set/G250_Watkins07_AVR_rh3032_B_D224_RNA1_Lib1_GL102_S84_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 42
+Trim Galore running...
+../final-fastq-set/G251_Watkins07_AVR_rh3033_B_D224_RNA1_Lib1_GL102_S72_R1_001.fastq.gz
+../final-fastq-set/G251_Watkins07_AVR_rh3033_B_D224_RNA1_Lib1_GL102_S72_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G252_Watkins07_AVR_rh3036_B_D224_RNA1_Lib1_GL104_S3_R1_001.fastq.gz
+../final-fastq-set/G252_Watkins07_AVR_rh3036_B_D224_RNA1_Lib1_GL104_S3_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G253_Watkins07_AVR_rh3037_B_D224_RNA1_Lib1_GL104_S5_R1_001.fastq.gz
+../final-fastq-set/G253_Watkins07_AVR_rh3037_B_D224_RNA1_Lib1_GL104_S5_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G254_Watkins07_AVR_rh3045_B_D224_RNA1_Lib1_GL102_S52_R1_001.fastq.gz
+../final-fastq-set/G254_Watkins07_AVR_rh3045_B_D224_RNA1_Lib1_GL102_S52_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G255_Watkins07_AVR_rh3048_B_D224_RNA1_Lib1_GL102_S23_R1_001.fastq.gz
+../final-fastq-set/G255_Watkins07_AVR_rh3048_B_D224_RNA1_Lib1_GL102_S23_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G256_Watkins07_AVR_rh3053_B_D224_RNA1_Lib1_GL102_S12_R1_001.fastq.gz
+../final-fastq-set/G256_Watkins07_AVR_rh3053_B_D224_RNA1_Lib1_GL102_S12_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 48
+Trim Galore running...
+../final-fastq-set/G257_Watkins07_AVR_r08014_B_D0-SIV_RNA1_Lib1_GL105_S85_R1_001.fastq.gz
+../final-fastq-set/G257_Watkins07_AVR_r08014_B_D0-SIV_RNA1_Lib1_GL105_S85_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G258_Watkins07_Unvax_r15058_B_D0-SIV_RNA1_Lib1_GL104_S74_R1_001.fastq.gz
+../final-fastq-set/G258_Watkins07_Unvax_r15058_B_D0-SIV_RNA1_Lib1_GL104_S74_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G259_Watkins07_Unvax_r16003_B_D0-SIV_RNA1_Lib1_GL104_S94_R1_001.fastq.gz
+../final-fastq-set/G259_Watkins07_Unvax_r16003_B_D0-SIV_RNA1_Lib1_GL104_S94_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G260_Watkins07_AVR_r08014_B_D3-SIV_RNA1_Lib1_GL104_S10_R1_001.fastq.gz
+../final-fastq-set/G260_Watkins07_AVR_r08014_B_D3-SIV_RNA1_Lib1_GL104_S10_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G261_Watkins07_Unvax_r15058_B_D3-SIV_RNA1_Lib1_GL104_S45_R1_001.fastq.gz
+../final-fastq-set/G261_Watkins07_Unvax_r15058_B_D3-SIV_RNA1_Lib1_GL104_S45_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G262_Watkins07_Unvax_r16003_B_D3-SIV_RNA1_Lib1_GL105_S72_R1_001.fastq.gz
+../final-fastq-set/G262_Watkins07_Unvax_r16003_B_D3-SIV_RNA1_Lib1_GL105_S72_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 54
+Trim Galore running...
+../final-fastq-set/G263_Watkins07_AVR_r08014_B_D7-SIV_RNA1_Lib1_GL105_S56_R1_001.fastq.gz
+../final-fastq-set/G263_Watkins07_AVR_r08014_B_D7-SIV_RNA1_Lib1_GL105_S56_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G264_Watkins07_Unvax_r15058_B_D7-SIV_RNA1_Lib1_GL104_S71_R1_001.fastq.gz
+../final-fastq-set/G264_Watkins07_Unvax_r15058_B_D7-SIV_RNA1_Lib1_GL104_S71_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G265_Watkins07_Unvax_r16003_B_D7-SIV_RNA1_Lib1_GL104_S24_R1_001.fastq.gz
+../final-fastq-set/G265_Watkins07_Unvax_r16003_B_D7-SIV_RNA1_Lib1_GL104_S24_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G266_Watkins07_Unvax_r17103_B_D0-SIV_RNA1_Lib1_GL102_S97_R1_001.fastq.gz
+../final-fastq-set/G266_Watkins07_Unvax_r17103_B_D0-SIV_RNA1_Lib1_GL102_S97_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G267_Watkins07_Unvax_r18067_B_D0-SIV_RNA1_Lib1_GL102_S1_R1_001.fastq.gz
+../final-fastq-set/G267_Watkins07_Unvax_r18067_B_D0-SIV_RNA1_Lib1_GL102_S1_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G268_Watkins07_AVR_r08014_B_D10-SIV_RNA1_Lib1_GL105_S87_R1_001.fastq.gz
+../final-fastq-set/G268_Watkins07_AVR_r08014_B_D10-SIV_RNA1_Lib1_GL105_S87_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 60
+Trim Galore running...
+../final-fastq-set/G269_Watkins07_Unvax_r15058_B_D10-SIV_RNA1_Lib1_GL102_S14_R1_001.fastq.gz
+../final-fastq-set/G269_Watkins07_Unvax_r15058_B_D10-SIV_RNA1_Lib1_GL102_S14_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G270_Watkins07_Unvax_r16003_B_D10-SIV_RNA1_Lib1_GL104_S6_R1_001.fastq.gz
+../final-fastq-set/G270_Watkins07_Unvax_r16003_B_D10-SIV_RNA1_Lib1_GL104_S6_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G271_Watkins07_Unvax_r17103_B_D3-SIV_RNA1_Lib1_GL102_S25_R1_001.fastq.gz
+../final-fastq-set/G271_Watkins07_Unvax_r17103_B_D3-SIV_RNA1_Lib1_GL102_S25_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G272_Watkins07_Unvax_r18067_B_D3-SIV_RNA1_Lib1_GL102_S5_R1_001.fastq.gz
+../final-fastq-set/G272_Watkins07_Unvax_r18067_B_D3-SIV_RNA1_Lib1_GL102_S5_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G273_Watkins07_AVR_r08014_B_D14-SIV_RNA1_Lib1_GL104_S62_R1_001.fastq.gz
+../final-fastq-set/G273_Watkins07_AVR_r08014_B_D14-SIV_RNA1_Lib1_GL104_S62_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G274_Watkins07_Unvax_r15058_B_D14-SIV_RNA1_Lib1_GL104_S21_R1_001.fastq.gz
+../final-fastq-set/G274_Watkins07_Unvax_r15058_B_D14-SIV_RNA1_Lib1_GL104_S21_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 66
+Trim Galore running...
+../final-fastq-set/G275_Watkins07_Unvax_r16003_B_D14-SIV_RNA1_Lib1_GL102_S26_R1_001.fastq.gz
+../final-fastq-set/G275_Watkins07_Unvax_r16003_B_D14-SIV_RNA1_Lib1_GL102_S26_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G276_Watkins07_Unvax_r17103_B_D7-SIV_RNA1_Lib1_GL104_S87_R1_001.fastq.gz
+../final-fastq-set/G276_Watkins07_Unvax_r17103_B_D7-SIV_RNA1_Lib1_GL104_S87_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G277_Watkins07_Unvax_r18067_B_D7-SIV_RNA1_Lib1_GL102_S65_R1_001.fastq.gz
+../final-fastq-set/G277_Watkins07_Unvax_r18067_B_D7-SIV_RNA1_Lib1_GL102_S65_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G278_Watkins07_AVR_r17017_B_D0-SIV_RNA1_Lib1_GL104_S33_R1_001.fastq.gz
+../final-fastq-set/G278_Watkins07_AVR_r17017_B_D0-SIV_RNA1_Lib1_GL104_S33_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G279_Watkins07_Unvax_r17039_B_D0-SIV_RNA1_Lib1_GL102_S70_R1_001.fastq.gz
+../final-fastq-set/G279_Watkins07_Unvax_r17039_B_D0-SIV_RNA1_Lib1_GL102_S70_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G280_Watkins07_Unvax_r17103_B_D10-SIV_RNA1_Lib1_GL102_S101_R1_001.fastq.gz
+../final-fastq-set/G280_Watkins07_Unvax_r17103_B_D10-SIV_RNA1_Lib1_GL102_S101_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 72
+Trim Galore running...
+../final-fastq-set/G281_Watkins07_Unvax_r18067_B_D10-SIV_RNA1_Lib1_GL104_S59_R1_001.fastq.gz
+../final-fastq-set/G281_Watkins07_Unvax_r18067_B_D10-SIV_RNA1_Lib1_GL104_S59_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G282_Watkins07_AVR_r17017_B_D3-SIV_RNA1_Lib1_GL102_S50_R1_001.fastq.gz
+../final-fastq-set/G282_Watkins07_AVR_r17017_B_D3-SIV_RNA1_Lib1_GL102_S50_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G283_Watkins07_Unvax_r17039_B_D3-SIV_RNA1_Lib1_GL102_S89_R1_001.fastq.gz
+../final-fastq-set/G283_Watkins07_Unvax_r17039_B_D3-SIV_RNA1_Lib1_GL102_S89_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G284_Watkins07_Unvax_r17103_B_D14-SIV_RNA1_Lib1_GL104_S38_R1_001.fastq.gz
+../final-fastq-set/G284_Watkins07_Unvax_r17103_B_D14-SIV_RNA1_Lib1_GL104_S38_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G285_Watkins07_Unvax_r18067_B_D14-SIV_RNA1_Lib1_GL104_S34_R1_001.fastq.gz
+../final-fastq-set/G285_Watkins07_Unvax_r18067_B_D14-SIV_RNA1_Lib1_GL104_S34_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G286_Watkins07_AVR_r17017_B_D7-SIV_RNA1_Lib1_GL104_S93_R1_001.fastq.gz
+../final-fastq-set/G286_Watkins07_AVR_r17017_B_D7-SIV_RNA1_Lib1_GL104_S93_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 78
+Trim Galore running...
+../final-fastq-set/G287_Watkins07_Unvax_r17039_B_D7-SIV_RNA1_Lib1_GL102_S73_R1_001.fastq.gz
+../final-fastq-set/G287_Watkins07_Unvax_r17039_B_D7-SIV_RNA1_Lib1_GL102_S73_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G288_Watkins07_AVR_r17017_B_D10-SIV_RNA1_Lib1_GL102_S64_R1_001.fastq.gz
+../final-fastq-set/G288_Watkins07_AVR_r17017_B_D10-SIV_RNA1_Lib1_GL102_S64_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G289_Watkins07_Unvax_r17039_B_D10-SIV_RNA3_Lib1_GL102_S21_R1_001.fastq.gz
+../final-fastq-set/G289_Watkins07_Unvax_r17039_B_D10-SIV_RNA3_Lib1_GL102_S21_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G290_Watkins07_AVR_r17017_B_D14-SIV_RNA1_Lib1_GL105_S59_R1_001.fastq.gz
+../final-fastq-set/G290_Watkins07_AVR_r17017_B_D14-SIV_RNA1_Lib1_GL105_S59_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G291_Watkins07_Unvax_r17039_B_D14-SIV_RNA1_Lib1_GL102_S15_R1_001.fastq.gz
+../final-fastq-set/G291_Watkins07_Unvax_r17039_B_D14-SIV_RNA1_Lib1_GL102_S15_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G292_Watkins07_Unvax_r12048_B_D0-SIV_RNA1_Lib1_GL104_S68_R1_001.fastq.gz
+../final-fastq-set/G292_Watkins07_Unvax_r12048_B_D0-SIV_RNA1_Lib1_GL104_S68_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 84
+Trim Galore running...
+../final-fastq-set/G293_Watkins07_Unvax_r12048_B_D3-SIV_RNA1_Lib1_GL102_S27_R1_001.fastq.gz
+../final-fastq-set/G293_Watkins07_Unvax_r12048_B_D3-SIV_RNA1_Lib1_GL102_S27_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G294_Watkins07_Unvax_r12048_B_D7-SIV_RNA1_Lib1_GL105_S69_R1_001.fastq.gz
+../final-fastq-set/G294_Watkins07_Unvax_r12048_B_D7-SIV_RNA1_Lib1_GL105_S69_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G295_Watkins07_AVR_rh3032_B_D0-SIV_RNA1_Lib1_GL104_S47_R1_001.fastq.gz
+../final-fastq-set/G295_Watkins07_AVR_rh3032_B_D0-SIV_RNA1_Lib1_GL104_S47_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G296_Watkins07_AVR_rh3033_B_D0-SIV_RNA1_Lib1_GL102_S66_R1_001.fastq.gz
+../final-fastq-set/G296_Watkins07_AVR_rh3033_B_D0-SIV_RNA1_Lib1_GL102_S66_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G297_Watkins07_Unvax_r12048_B_D10-SIV_RNA1_Lib1_GL105_S71_R1_001.fastq.gz
+../final-fastq-set/G297_Watkins07_Unvax_r12048_B_D10-SIV_RNA1_Lib1_GL105_S71_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G298_Watkins07_AVR_rh3032_B_D3-SIV_RNA1_Lib1_GL104_S31_R1_001.fastq.gz
+../final-fastq-set/G298_Watkins07_AVR_rh3032_B_D3-SIV_RNA1_Lib1_GL104_S31_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 90
+Trim Galore running...
+../final-fastq-set/G299_Watkins07_AVR_rh3033_B_D3-SIV_RNA1_Lib1_GL104_S54_R1_001.fastq.gz
+../final-fastq-set/G299_Watkins07_AVR_rh3033_B_D3-SIV_RNA1_Lib1_GL104_S54_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G300_Watkins07_Unvax_r05035_B_D0-SIV_RNA1_Lib1_GL105_S80_R1_001.fastq.gz
+../final-fastq-set/G300_Watkins07_Unvax_r05035_B_D0-SIV_RNA1_Lib1_GL105_S80_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G301_Watkins07_Unvax_r05035_B_D3-SIV_RNA1_Lib1_GL102_S61_R1_001.fastq.gz
+../final-fastq-set/G301_Watkins07_Unvax_r05035_B_D3-SIV_RNA1_Lib1_GL102_S61_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G302_Watkins07_Unvax_r05035_B_D7-SIV_RNA1_Lib1_GL104_S101_R1_001.fastq.gz
+../final-fastq-set/G302_Watkins07_Unvax_r05035_B_D7-SIV_RNA1_Lib1_GL104_S101_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G303_Watkins07_Unvax_r05035_B_D10-SIV_RNA1_Lib1_GL104_S77_R1_001.fastq.gz
+../final-fastq-set/G303_Watkins07_Unvax_r05035_B_D10-SIV_RNA1_Lib1_GL104_S77_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G304_Watkins07_Unvax_r05035_B_D14-SIV_RNA1_Lib1_GL104_S64_R1_001.fastq.gz
+../final-fastq-set/G304_Watkins07_Unvax_r05035_B_D14-SIV_RNA1_Lib1_GL104_S64_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 96
+Trim Galore running...
+../final-fastq-set/G305_Watkins07_Unvax_r12048_B_D14-SIV_RNA1_Lib1_GL104_S11_R1_001.fastq.gz
+../final-fastq-set/G305_Watkins07_Unvax_r12048_B_D14-SIV_RNA1_Lib1_GL104_S11_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G306_Watkins07_Unvax_r14010_B_D0-SIV_RNA1_Lib1_GL102_S71_R1_001.fastq.gz
+../final-fastq-set/G306_Watkins07_Unvax_r14010_B_D0-SIV_RNA1_Lib1_GL102_S71_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G307_Watkins07_Unvax_r14010_B_D3-SIV_RNA1_Lib2_GL105_S92_R1_001.fastq.gz
+../final-fastq-set/G307_Watkins07_Unvax_r14010_B_D3-SIV_RNA1_Lib2_GL105_S92_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G308_Watkins07_Unvax_r14010_B_D7-SIV_RNA1_Lib1_GL104_S44_R1_001.fastq.gz
+../final-fastq-set/G308_Watkins07_Unvax_r14010_B_D7-SIV_RNA1_Lib1_GL104_S44_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G309_Watkins07_Unvax_r14010_B_D10-SIV_RNA1_Lib1_GL104_S57_R1_001.fastq.gz
+../final-fastq-set/G309_Watkins07_Unvax_r14010_B_D10-SIV_RNA1_Lib1_GL104_S57_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G310_Watkins07_Unvax_r14010_B_D14-SIV_RNA1_Lib1_GL102_S99_R1_001.fastq.gz
+../final-fastq-set/G310_Watkins07_Unvax_r14010_B_D14-SIV_RNA1_Lib1_GL102_S99_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 102
+Trim Galore running...
+../final-fastq-set/G311_Watkins07_AVR_r14065_B_D0-SIV_RNA1_Lib1_GL105_S95_R1_001.fastq.gz
+../final-fastq-set/G311_Watkins07_AVR_r14065_B_D0-SIV_RNA1_Lib1_GL105_S95_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G312_Watkins07_AVR_r14065_B_D4-SIV_RNA1_Lib1_GL102_S96_R1_001.fastq.gz
+../final-fastq-set/G312_Watkins07_AVR_r14065_B_D4-SIV_RNA1_Lib1_GL102_S96_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G313_Watkins07_AVR_r14065_B_D7-SIV_RNA1_Lib1_GL102_S80_R1_001.fastq.gz
+../final-fastq-set/G313_Watkins07_AVR_r14065_B_D7-SIV_RNA1_Lib1_GL102_S80_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G314_Watkins07_AVR_r14065_B_D10-SIV_RNA1_Lib1_GL102_S102_R1_001.fastq.gz
+../final-fastq-set/G314_Watkins07_AVR_r14065_B_D10-SIV_RNA1_Lib1_GL102_S102_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G315_Watkins07_AVR_r14065_B_D14-SIV_RNA1_Lib1_GL105_S77_R1_001.fastq.gz
+../final-fastq-set/G315_Watkins07_AVR_r14065_B_D14-SIV_RNA1_Lib1_GL105_S77_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G316_Watkins07_Unvax_r14095_B_D0-SIV_RNA1_Lib1_GL102_S75_R1_001.fastq.gz
+../final-fastq-set/G316_Watkins07_Unvax_r14095_B_D0-SIV_RNA1_Lib1_GL102_S75_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 108
+Trim Galore running...
+../final-fastq-set/G317_Watkins07_Unvax_r14095_B_D3-SIV_RNA1_Lib1_GL104_S49_R1_001.fastq.gz
+../final-fastq-set/G317_Watkins07_Unvax_r14095_B_D3-SIV_RNA1_Lib1_GL104_S49_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G318_Watkins07_Unvax_r14095_B_D7-SIV_RNA1_Lib1_GL105_S62_R1_001.fastq.gz
+../final-fastq-set/G318_Watkins07_Unvax_r14095_B_D7-SIV_RNA1_Lib1_GL105_S62_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G319_Watkins07_Unvax_r14095_B_D10-SIV_RNA1_Lib1_GL102_S82_R1_001.fastq.gz
+../final-fastq-set/G319_Watkins07_Unvax_r14095_B_D10-SIV_RNA1_Lib1_GL102_S82_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G320_Watkins07_Unvax_r14095_B_D14-SIV_RNA1_Lib1_GL104_S103_R1_001.fastq.gz
+../final-fastq-set/G320_Watkins07_Unvax_r14095_B_D14-SIV_RNA1_Lib1_GL104_S103_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G321_Watkins07_Unvax_r15057_B_D0-SIV_RNA1_Lib1_GL104_S104_R1_001.fastq.gz
+../final-fastq-set/G321_Watkins07_Unvax_r15057_B_D0-SIV_RNA1_Lib1_GL104_S104_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G322_Watkins07_Unvax_r15057_B_D4-SIV_RNA1_Lib1_GL102_S8_R1_001.fastq.gz
+../final-fastq-set/G322_Watkins07_Unvax_r15057_B_D4-SIV_RNA1_Lib1_GL102_S8_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 114
+Trim Galore running...
+../final-fastq-set/G323_Watkins07_Unvax_r15057_B_D7-SIV_RNA1_Lib1_GL102_S103_R1_001.fastq.gz
+../final-fastq-set/G323_Watkins07_Unvax_r15057_B_D7-SIV_RNA1_Lib1_GL102_S103_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G324_Watkins07_Unvax_r15057_B_D10-SIV_RNA1_Lib1_GL104_S17_R1_001.fastq.gz
+../final-fastq-set/G324_Watkins07_Unvax_r15057_B_D10-SIV_RNA1_Lib1_GL104_S17_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G325_Watkins07_Unvax_r15057_B_D14-SIV_RNA1_Lib1_GL102_S69_R1_001.fastq.gz
+../final-fastq-set/G325_Watkins07_Unvax_r15057_B_D14-SIV_RNA1_Lib1_GL102_S69_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G326_Watkins07_Unvax_r15093_B_D0-SIV_RNA1_Lib1_GL102_S87_R1_001.fastq.gz
+../final-fastq-set/G326_Watkins07_Unvax_r15093_B_D0-SIV_RNA1_Lib1_GL102_S87_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G327_Watkins07_Unvax_r15093_B_D3-SIV_RNA1_Lib1_GL102_S6_R1_001.fastq.gz
+../final-fastq-set/G327_Watkins07_Unvax_r15093_B_D3-SIV_RNA1_Lib1_GL102_S6_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G328_Watkins07_Unvax_r15093_B_D7-SIV_RNA1_Lib1_GL105_S75_R1_001.fastq.gz
+../final-fastq-set/G328_Watkins07_Unvax_r15093_B_D7-SIV_RNA1_Lib1_GL105_S75_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 120
+Trim Galore running...
+../final-fastq-set/G329_Watkins07_Unvax_r15093_B_D10-SIV_RNA1_Lib1_GL102_S49_R1_001.fastq.gz
+../final-fastq-set/G329_Watkins07_Unvax_r15093_B_D10-SIV_RNA1_Lib1_GL102_S49_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G330_Watkins07_Unvax_r15093_B_D14-SIV_RNA1_Lib1_GL104_S89_R1_001.fastq.gz
+../final-fastq-set/G330_Watkins07_Unvax_r15093_B_D14-SIV_RNA1_Lib1_GL104_S89_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G331_Watkins07_AVR_r16007_B_D0-SIV_RNA1_Lib2_GL104_S98_R1_001.fastq.gz
+../final-fastq-set/G331_Watkins07_AVR_r16007_B_D0-SIV_RNA1_Lib2_GL104_S98_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G332_Watkins07_AVR_r16007_B_D3-SIV_RNA1_Lib1_GL102_S95_R1_001.fastq.gz
+../final-fastq-set/G332_Watkins07_AVR_r16007_B_D3-SIV_RNA1_Lib1_GL102_S95_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G333_Watkins07_AVR_r16007_B_D7-SIV_RNA1_Lib1_GL104_S52_R1_001.fastq.gz
+../final-fastq-set/G333_Watkins07_AVR_r16007_B_D7-SIV_RNA1_Lib1_GL104_S52_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G334_Watkins07_AVR_r16007_B_D10-SIV_RNA1_Lib1_GL104_S86_R1_001.fastq.gz
+../final-fastq-set/G334_Watkins07_AVR_r16007_B_D10-SIV_RNA1_Lib1_GL104_S86_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 126
+Trim Galore running...
+../final-fastq-set/G335_Watkins07_AVR_r16007_B_D14-SIV_RNA1_Lib1_GL104_S81_R1_001.fastq.gz
+../final-fastq-set/G335_Watkins07_AVR_r16007_B_D14-SIV_RNA1_Lib1_GL104_S81_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G336_Watkins07_Unvax_r17082_B_D-4-SIV_RNA1_Lib1_GL104_S28_R1_001.fastq.gz
+../final-fastq-set/G336_Watkins07_Unvax_r17082_B_D-4-SIV_RNA1_Lib1_GL104_S28_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G337_Watkins07_Unvax_r17082_B_D10-SIV_RNA1_Lib1_GL104_S55_R1_001.fastq.gz
+../final-fastq-set/G337_Watkins07_Unvax_r17082_B_D10-SIV_RNA1_Lib1_GL104_S55_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G338_Watkins07_Unvax_r17100_B_D0-SIV_RNA1_Lib1_GL102_S47_R1_001.fastq.gz
+../final-fastq-set/G338_Watkins07_Unvax_r17100_B_D0-SIV_RNA1_Lib1_GL102_S47_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G339_Watkins07_Unvax_r17100_B_D4-SIV_RNA1_Lib1_GL104_S19_R1_001.fastq.gz
+../final-fastq-set/G339_Watkins07_Unvax_r17100_B_D4-SIV_RNA1_Lib1_GL104_S19_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G340_Watkins07_Unvax_r17100_B_D7-SIV_RNA1_Lib1_GL105_S74_R1_001.fastq.gz
+../final-fastq-set/G340_Watkins07_Unvax_r17100_B_D7-SIV_RNA1_Lib1_GL105_S74_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 132
+Trim Galore running...
+../final-fastq-set/G341_Watkins07_Unvax_r17100_B_D10-SIV_RNA1_Lib1_GL102_S16_R1_001.fastq.gz
+../final-fastq-set/G341_Watkins07_Unvax_r17100_B_D10-SIV_RNA1_Lib1_GL102_S16_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G342_Watkins07_Unvax_r17100_B_D14-SIV_RNA1_Lib1_GL102_S43_R1_001.fastq.gz
+../final-fastq-set/G342_Watkins07_Unvax_r17100_B_D14-SIV_RNA1_Lib1_GL102_S43_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G343_Watkins07_AVR_r17115_B_D0-SIV_RNA1_Lib1_GL102_S41_R1_001.fastq.gz
+../final-fastq-set/G343_Watkins07_AVR_r17115_B_D0-SIV_RNA1_Lib1_GL102_S41_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G344_Watkins07_AVR_r17115_B_D3-SIV_RNA1_Lib1_GL102_S76_R1_001.fastq.gz
+../final-fastq-set/G344_Watkins07_AVR_r17115_B_D3-SIV_RNA1_Lib1_GL102_S76_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G345_Watkins07_AVR_r17115_B_D7-SIV_RNA1_Lib1_GL104_S66_R1_001.fastq.gz
+../final-fastq-set/G345_Watkins07_AVR_r17115_B_D7-SIV_RNA1_Lib1_GL104_S66_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G346_Watkins07_AVR_r17115_B_D10-SIV_RNA1_Lib1_GL104_S95_R1_001.fastq.gz
+../final-fastq-set/G346_Watkins07_AVR_r17115_B_D10-SIV_RNA1_Lib1_GL104_S95_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 138
+Trim Galore running...
+../final-fastq-set/G347_Watkins07_AVR_r17115_B_D14-SIV_RNA1_Lib1_GL104_S83_R1_001.fastq.gz
+../final-fastq-set/G347_Watkins07_AVR_r17115_B_D14-SIV_RNA1_Lib1_GL104_S83_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G348_Watkins07_Unvax_r18066_B_D0-SIV_RNA1_Lib1_GL105_S89_R1_001.fastq.gz
+../final-fastq-set/G348_Watkins07_Unvax_r18066_B_D0-SIV_RNA1_Lib1_GL105_S89_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G349_Watkins07_Unvax_r18066_B_D3-SIV_RNA1_Lib1_GL104_S39_R1_001.fastq.gz
+../final-fastq-set/G349_Watkins07_Unvax_r18066_B_D3-SIV_RNA1_Lib1_GL104_S39_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G350_Watkins07_Unvax_r18066_B_D7-SIV_RNA1_Lib1_GL102_S60_R1_001.fastq.gz
+../final-fastq-set/G350_Watkins07_Unvax_r18066_B_D7-SIV_RNA1_Lib1_GL102_S60_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G351_Watkins07_Unvax_r18066_B_D10-SIV_RNA1_Lib1_GL102_S104_R1_001.fastq.gz
+../final-fastq-set/G351_Watkins07_Unvax_r18066_B_D10-SIV_RNA1_Lib1_GL102_S104_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G352_Watkins07_Unvax_r18066_B_D13-SIV_RNA1_Lib1_GL104_S1_R1_001.fastq.gz
+../final-fastq-set/G352_Watkins07_Unvax_r18066_B_D13-SIV_RNA1_Lib1_GL104_S1_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 144
+Trim Galore running...
+../final-fastq-set/G353_Watkins07_Unvax_rh2494_B_D0-SIV_RNA1_Lib1_GL102_S55_R1_001.fastq.gz
+../final-fastq-set/G353_Watkins07_Unvax_rh2494_B_D0-SIV_RNA1_Lib1_GL102_S55_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G354_Watkins07_Unvax_rh2494_B_D3-SIV_RNA1_Lib1_GL104_S40_R1_001.fastq.gz
+../final-fastq-set/G354_Watkins07_Unvax_rh2494_B_D3-SIV_RNA1_Lib1_GL104_S40_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G355_Watkins07_Unvax_rh2494_B_D7-SIV_RNA1_Lib1_GL102_S39_R1_001.fastq.gz
+../final-fastq-set/G355_Watkins07_Unvax_rh2494_B_D7-SIV_RNA1_Lib1_GL102_S39_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G356_Watkins07_Unvax_rh2494_B_D11-SIV_RNA1_Lib1_GL105_S61_R1_001.fastq.gz
+../final-fastq-set/G356_Watkins07_Unvax_rh2494_B_D11-SIV_RNA1_Lib1_GL105_S61_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G357_Watkins07_Unvax_rh2494_B_D14-SIV_RNA2_Lib1_GL102_S74_R1_001.fastq.gz
+../final-fastq-set/G357_Watkins07_Unvax_rh2494_B_D14-SIV_RNA2_Lib1_GL102_S74_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G358_Watkins07_Unvax_rh2504_B_D0-SIV_RNA1_Lib1_GL105_S94_R1_001.fastq.gz
+../final-fastq-set/G358_Watkins07_Unvax_rh2504_B_D0-SIV_RNA1_Lib1_GL105_S94_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 150
+Trim Galore running...
+../final-fastq-set/G359_Watkins07_Unvax_rh2504_B_D3-SIV_RNA1_Lib1_GL102_S78_R1_001.fastq.gz
+../final-fastq-set/G359_Watkins07_Unvax_rh2504_B_D3-SIV_RNA1_Lib1_GL102_S78_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G360_Watkins07_Unvax_rh2504_B_D7-SIV_RNA1_Lib1_GL105_S90_R1_001.fastq.gz
+../final-fastq-set/G360_Watkins07_Unvax_rh2504_B_D7-SIV_RNA1_Lib1_GL105_S90_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G361_Watkins07_Unvax_rh2504_B_D10-SIV_RNA1_Lib1_GL104_S80_R1_001.fastq.gz
+../final-fastq-set/G361_Watkins07_Unvax_rh2504_B_D10-SIV_RNA1_Lib1_GL104_S80_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G362_Watkins07_Unvax_rh2504_B_D14-SIV_RNA1_Lib1_GL104_S8_R1_001.fastq.gz
+../final-fastq-set/G362_Watkins07_Unvax_rh2504_B_D14-SIV_RNA1_Lib1_GL104_S8_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G363_Watkins07_Unvax_rh2527_B_D0-SIV_RNA1_Lib1_GL104_S67_R1_001.fastq.gz
+../final-fastq-set/G363_Watkins07_Unvax_rh2527_B_D0-SIV_RNA1_Lib1_GL104_S67_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G364_Watkins07_Unvax_rh2527_B_D3-SIV_RNA1_Lib1_GL104_S63_R1_001.fastq.gz
+../final-fastq-set/G364_Watkins07_Unvax_rh2527_B_D3-SIV_RNA1_Lib1_GL104_S63_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 156
+Trim Galore running...
+../final-fastq-set/G365_Watkins07_Unvax_rh2527_B_D7-SIV_RNA1_Lib1_GL105_S82_R1_001.fastq.gz
+../final-fastq-set/G365_Watkins07_Unvax_rh2527_B_D7-SIV_RNA1_Lib1_GL105_S82_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G366_Watkins07_Unvax_rh2527_B_D10-SIV_RNA1_Lib1_GL104_S61_R1_001.fastq.gz
+../final-fastq-set/G366_Watkins07_Unvax_rh2527_B_D10-SIV_RNA1_Lib1_GL104_S61_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G367_Watkins07_Unvax_rh2527_B_D14-SIV_RNA1_Lib1_GL105_S76_R1_001.fastq.gz
+../final-fastq-set/G367_Watkins07_Unvax_rh2527_B_D14-SIV_RNA1_Lib1_GL105_S76_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G368_Watkins07_Unvax_rh2756_B_D0-SIV_RNA1_Lib1_GL102_S3_R1_001.fastq.gz
+../final-fastq-set/G368_Watkins07_Unvax_rh2756_B_D0-SIV_RNA1_Lib1_GL102_S3_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G369_Watkins07_Unvax_rh2756_B_D3-SIV_RNA1_Lib1_GL102_S9_R1_001.fastq.gz
+../final-fastq-set/G369_Watkins07_Unvax_rh2756_B_D3-SIV_RNA1_Lib1_GL102_S9_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G370_Watkins07_Unvax_rh2756_B_D7-SIV_RNA1_Lib1_GL104_S9_R1_001.fastq.gz
+../final-fastq-set/G370_Watkins07_Unvax_rh2756_B_D7-SIV_RNA1_Lib1_GL104_S9_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 162
+Trim Galore running...
+../final-fastq-set/G371_Watkins07_Unvax_rh2756_B_D10-SIV_RNA1_Lib1_GL105_S68_R1_001.fastq.gz
+../final-fastq-set/G371_Watkins07_Unvax_rh2756_B_D10-SIV_RNA1_Lib1_GL105_S68_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G372_Watkins07_Unvax_rh2756_B_D14-SIV_RNA1_Lib1_GL104_S48_R1_001.fastq.gz
+../final-fastq-set/G372_Watkins07_Unvax_rh2756_B_D14-SIV_RNA1_Lib1_GL104_S48_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G373_Watkins07_Unvax_rh2810_B_D0-SIV_RNA1_Lib1_GL105_S86_R1_001.fastq.gz
+../final-fastq-set/G373_Watkins07_Unvax_rh2810_B_D0-SIV_RNA1_Lib1_GL105_S86_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G374_Watkins07_Unvax_rh2810_B_D3-SIV_RNA1_Lib1_GL104_S15_R1_001.fastq.gz
+../final-fastq-set/G374_Watkins07_Unvax_rh2810_B_D3-SIV_RNA1_Lib1_GL104_S15_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G375_Watkins07_Unvax_rh2810_B_D7-SIV_RNA1_Lib1_GL104_S20_R1_001.fastq.gz
+../final-fastq-set/G375_Watkins07_Unvax_rh2810_B_D7-SIV_RNA1_Lib1_GL104_S20_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G376_Watkins07_Unvax_rh2810_B_D10-SIV_RNA1_Lib1_GL102_S63_R1_001.fastq.gz
+../final-fastq-set/G376_Watkins07_Unvax_rh2810_B_D10-SIV_RNA1_Lib1_GL102_S63_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 168
+Trim Galore running...
+../final-fastq-set/G377_Watkins07_Unvax_rh2810_B_D14-SIV_RNA1_Lib1_GL102_S56_R1_001.fastq.gz
+../final-fastq-set/G377_Watkins07_Unvax_rh2810_B_D14-SIV_RNA1_Lib1_GL102_S56_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G378_Watkins07_Unvax_rh2848_B_D0-SIV_RNA1_Lib1_GL104_S29_R1_001.fastq.gz
+../final-fastq-set/G378_Watkins07_Unvax_rh2848_B_D0-SIV_RNA1_Lib1_GL104_S29_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G379_Watkins07_Unvax_rh2848_B_D3-SIV_RNA1_Lib1_GL102_S17_R1_001.fastq.gz
+../final-fastq-set/G379_Watkins07_Unvax_rh2848_B_D3-SIV_RNA1_Lib1_GL102_S17_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G380_Watkins07_Unvax_rh2848_B_D7-SIV_RNA1_Lib1_GL104_S32_R1_001.fastq.gz
+../final-fastq-set/G380_Watkins07_Unvax_rh2848_B_D7-SIV_RNA1_Lib1_GL104_S32_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G381_Watkins07_Unvax_rh2848_B_D10-SIV_RNA1_Lib1_GL104_S99_R1_001.fastq.gz
+../final-fastq-set/G381_Watkins07_Unvax_rh2848_B_D10-SIV_RNA1_Lib1_GL104_S99_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G382_Watkins07_Unvax_rh2848_B_D14-SIV_RNA1_Lib1_GL102_S83_R1_001.fastq.gz
+../final-fastq-set/G382_Watkins07_Unvax_rh2848_B_D14-SIV_RNA1_Lib1_GL102_S83_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 174
+Trim Galore running...
+../final-fastq-set/G383_Watkins07_Unvax_rh2861_B_D0-SIV_RNA1_Lib1_GL102_S29_R1_001.fastq.gz
+../final-fastq-set/G383_Watkins07_Unvax_rh2861_B_D0-SIV_RNA1_Lib1_GL102_S29_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G384_Watkins07_Unvax_rh2861_B_D3-SIV_RNA1_Lib1_GL102_S40_R1_001.fastq.gz
+../final-fastq-set/G384_Watkins07_Unvax_rh2861_B_D3-SIV_RNA1_Lib1_GL102_S40_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G385_Watkins07_Unvax_rh2861_B_D7-SIV_RNA1_Lib1_GL105_S83_R1_001.fastq.gz
+../final-fastq-set/G385_Watkins07_Unvax_rh2861_B_D7-SIV_RNA1_Lib1_GL105_S83_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G386_Watkins07_Unvax_rh2861_B_D10-SIV_RNA1_Lib1_GL104_S30_R1_001.fastq.gz
+../final-fastq-set/G386_Watkins07_Unvax_rh2861_B_D10-SIV_RNA1_Lib1_GL104_S30_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G387_Watkins07_Unvax_rh2861_B_D14-SIV_RNA1_Lib1_GL104_S76_R1_001.fastq.gz
+../final-fastq-set/G387_Watkins07_Unvax_rh2861_B_D14-SIV_RNA1_Lib1_GL104_S76_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G388_Watkins07_AVR_rh2932_B_D0-SIV_RNA1_Lib1_GL102_S57_R1_001.fastq.gz
+../final-fastq-set/G388_Watkins07_AVR_rh2932_B_D0-SIV_RNA1_Lib1_GL102_S57_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 180
+Trim Galore running...
+../final-fastq-set/G389_Watkins07_AVR_rh2932_B_D3-SIV_RNA1_Lib1_GL104_S78_R1_001.fastq.gz
+../final-fastq-set/G389_Watkins07_AVR_rh2932_B_D3-SIV_RNA1_Lib1_GL104_S78_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G390_Watkins07_AVR_rh2932_B_D7-SIV_RNA1_Lib1_GL102_S46_R1_001.fastq.gz
+../final-fastq-set/G390_Watkins07_AVR_rh2932_B_D7-SIV_RNA1_Lib1_GL102_S46_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G391_Watkins07_AVR_rh2932_B_D10-SIV_RNA1_Lib1_GL105_S81_R1_001.fastq.gz
+../final-fastq-set/G391_Watkins07_AVR_rh2932_B_D10-SIV_RNA1_Lib1_GL105_S81_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G392_Watkins07_AVR_rh2932_B_D14-SIV_RNA1_Lib1_GL102_S90_R1_001.fastq.gz
+../final-fastq-set/G392_Watkins07_AVR_rh2932_B_D14-SIV_RNA1_Lib1_GL102_S90_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G393_Watkins07_AVR_rh2943_B_D0-SIV_RNA1_Lib1_GL104_S60_R1_001.fastq.gz
+../final-fastq-set/G393_Watkins07_AVR_rh2943_B_D0-SIV_RNA1_Lib1_GL104_S60_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G394_Watkins07_AVR_rh2943_B_D3-SIV_RNA1_Lib1_GL104_S36_R1_001.fastq.gz
+../final-fastq-set/G394_Watkins07_AVR_rh2943_B_D3-SIV_RNA1_Lib1_GL104_S36_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 186
+Trim Galore running...
+../final-fastq-set/G395_Watkins07_AVR_rh2943_B_D7-SIV_RNA1_Lib1_GL104_S72_R1_001.fastq.gz
+../final-fastq-set/G395_Watkins07_AVR_rh2943_B_D7-SIV_RNA1_Lib1_GL104_S72_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G396_Watkins07_AVR_rh2943_B_D10-SIV_RNA1_Lib1_GL104_S79_R1_001.fastq.gz
+../final-fastq-set/G396_Watkins07_AVR_rh2943_B_D10-SIV_RNA1_Lib1_GL104_S79_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G397_Watkins07_AVR_rh2943_B_D14-SIV_RNA1_Lib1_GL102_S28_R1_001.fastq.gz
+../final-fastq-set/G397_Watkins07_AVR_rh2943_B_D14-SIV_RNA1_Lib1_GL102_S28_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G398_Watkins07_Unvax_rh2995_B_D0-SIV_RNA1_Lib1_GL102_S58_R1_001.fastq.gz
+../final-fastq-set/G398_Watkins07_Unvax_rh2995_B_D0-SIV_RNA1_Lib1_GL102_S58_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G399_Watkins07_Unvax_rh2995_B_D3-SIV_RNA1_Lib1_GL104_S65_R1_001.fastq.gz
+../final-fastq-set/G399_Watkins07_Unvax_rh2995_B_D3-SIV_RNA1_Lib1_GL104_S65_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G400_Watkins07_Unvax_rh2995_B_D10-SIV_RNA1_Lib1_GL102_S81_R1_001.fastq.gz
+../final-fastq-set/G400_Watkins07_Unvax_rh2995_B_D10-SIV_RNA1_Lib1_GL102_S81_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 192
+Trim Galore running...
+../final-fastq-set/G401_Watkins07_Unvax_rh2995_B_D14-SIV_RNA1_Lib1_GL105_S67_R1_001.fastq.gz
+../final-fastq-set/G401_Watkins07_Unvax_rh2995_B_D14-SIV_RNA1_Lib1_GL105_S67_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G403_Watkins07_Unvax_rh3000_B_D0-SIV_RNA1_Lib1_GL102_S42_R1_001.fastq.gz
+../final-fastq-set/G403_Watkins07_Unvax_rh3000_B_D0-SIV_RNA1_Lib1_GL102_S42_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G404_Watkins07_Unvax_rh3000_B_D3-SIV_RNA1_Lib1_GL102_S48_R1_001.fastq.gz
+../final-fastq-set/G404_Watkins07_Unvax_rh3000_B_D3-SIV_RNA1_Lib1_GL102_S48_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G405_Watkins07_Unvax_rh3000_B_D7-SIV_RNA1_Lib1_GL105_S64_R1_001.fastq.gz
+../final-fastq-set/G405_Watkins07_Unvax_rh3000_B_D7-SIV_RNA1_Lib1_GL105_S64_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G406_Watkins07_Unvax_rh3000_B_D10-SIV_RNA1_Lib1_GL102_S34_R1_001.fastq.gz
+../final-fastq-set/G406_Watkins07_Unvax_rh3000_B_D10-SIV_RNA1_Lib1_GL102_S34_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G407_Watkins07_AVR_rh3006_B_D0-SIV_RNA2_Lib1_GL102_S38_R1_001.fastq.gz
+../final-fastq-set/G407_Watkins07_AVR_rh3006_B_D0-SIV_RNA2_Lib1_GL102_S38_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 198
+Trim Galore running...
+../final-fastq-set/G408_Watkins07_AVR_rh3006_B_D3-SIV_RNA1_Lib1_GL105_S65_R1_001.fastq.gz
+../final-fastq-set/G408_Watkins07_AVR_rh3006_B_D3-SIV_RNA1_Lib1_GL105_S65_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G409_Watkins07_AVR_rh3006_B_D7-SIV_RNA1_Lib1_GL104_S69_R1_001.fastq.gz
+../final-fastq-set/G409_Watkins07_AVR_rh3006_B_D7-SIV_RNA1_Lib1_GL104_S69_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G410_Watkins07_AVR_rh3006_B_D10-SIV_RNA1_Lib1_GL102_S20_R1_001.fastq.gz
+../final-fastq-set/G410_Watkins07_AVR_rh3006_B_D10-SIV_RNA1_Lib1_GL102_S20_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G411_Watkins07_AVR_rh3006_B_D14-SIV_RNA2_Lib1_GL104_S84_R1_001.fastq.gz
+../final-fastq-set/G411_Watkins07_AVR_rh3006_B_D14-SIV_RNA2_Lib1_GL104_S84_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G412_Watkins07_AVR_rh3011_B_D0-SIV_RNA2_Lib2_GL105_S78_R1_001.fastq.gz
+../final-fastq-set/G412_Watkins07_AVR_rh3011_B_D0-SIV_RNA2_Lib2_GL105_S78_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G413_Watkins07_AVR_rh3011_B_D3-SIV_RNA1_Lib1_GL102_S93_R1_001.fastq.gz
+../final-fastq-set/G413_Watkins07_AVR_rh3011_B_D3-SIV_RNA1_Lib1_GL102_S93_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 204
+Trim Galore running...
+../final-fastq-set/G414_Watkins07_AVR_rh3011_B_D7-SIV_RNA1_Lib1_GL102_S44_R1_001.fastq.gz
+../final-fastq-set/G414_Watkins07_AVR_rh3011_B_D7-SIV_RNA1_Lib1_GL102_S44_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G415_Watkins07_AVR_rh3011_B_D10-SIV_RNA1_Lib1_GL104_S26_R1_001.fastq.gz
+../final-fastq-set/G415_Watkins07_AVR_rh3011_B_D10-SIV_RNA1_Lib1_GL104_S26_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G416_Watkins07_AVR_rh3011_B_D14-SIV_RNA1_Lib1_GL104_S90_R1_001.fastq.gz
+../final-fastq-set/G416_Watkins07_AVR_rh3011_B_D14-SIV_RNA1_Lib1_GL104_S90_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G417_Watkins07_Unvax_rh3013_B_D0-SIV_RNA1_Lib1_GL105_S66_R1_001.fastq.gz
+../final-fastq-set/G417_Watkins07_Unvax_rh3013_B_D0-SIV_RNA1_Lib1_GL105_S66_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G419_Watkins07_Unvax_rh3013_B_D7-SIV_RNA1_Lib1_GL104_S37_R1_001.fastq.gz
+../final-fastq-set/G419_Watkins07_Unvax_rh3013_B_D7-SIV_RNA1_Lib1_GL104_S37_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G420_Watkins07_Unvax_rh3013_B_D10-SIV_RNA1_Lib1_GL104_S14_R1_001.fastq.gz
+../final-fastq-set/G420_Watkins07_Unvax_rh3013_B_D10-SIV_RNA1_Lib1_GL104_S14_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 210
+Trim Galore running...
+../final-fastq-set/G421_Watkins07_Unvax_rh3013_B_D14-SIV_RNA1_Lib1_GL104_S7_R1_001.fastq.gz
+../final-fastq-set/G421_Watkins07_Unvax_rh3013_B_D14-SIV_RNA1_Lib1_GL104_S7_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G422_Watkins07_AVR_rh3032_B_D7-SIV_RNA1_Lib1_GL104_S16_R1_001.fastq.gz
+../final-fastq-set/G422_Watkins07_AVR_rh3032_B_D7-SIV_RNA1_Lib1_GL104_S16_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G423_Watkins07_AVR_rh3032_B_D10-SIV_RNA1_Lib1_GL102_S19_R1_001.fastq.gz
+../final-fastq-set/G423_Watkins07_AVR_rh3032_B_D10-SIV_RNA1_Lib1_GL102_S19_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G424_Watkins07_AVR_rh3032_B_D14-SIV_RNA1_Lib1_GL102_S85_R1_001.fastq.gz
+../final-fastq-set/G424_Watkins07_AVR_rh3032_B_D14-SIV_RNA1_Lib1_GL102_S85_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G425_Watkins07_AVR_rh3032_B_D7-SIV_RNA1_Lib2_GL105_S93_R1_001.fastq.gz
+../final-fastq-set/G425_Watkins07_AVR_rh3032_B_D7-SIV_RNA1_Lib2_GL105_S93_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G426_Watkins07_AVR_rh3033_B_D10-SIV_RNA1_Lib1_GL102_S88_R1_001.fastq.gz
+../final-fastq-set/G426_Watkins07_AVR_rh3033_B_D10-SIV_RNA1_Lib1_GL102_S88_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 216
+Trim Galore running...
+../final-fastq-set/G427_Watkins07_AVR_rh3033_B_D14-SIV_RNA1_Lib1_GL104_S4_R1_001.fastq.gz
+../final-fastq-set/G427_Watkins07_AVR_rh3033_B_D14-SIV_RNA1_Lib1_GL104_S4_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G428_Watkins07_AVR_rh3036_B_D0-SIV_RNA1_Lib1_GL102_S36_R1_001.fastq.gz
+../final-fastq-set/G428_Watkins07_AVR_rh3036_B_D0-SIV_RNA1_Lib1_GL102_S36_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G429_Watkins07_AVR_rh3036_B_D3-SIV_RNA1_Lib1_GL102_S98_R1_001.fastq.gz
+../final-fastq-set/G429_Watkins07_AVR_rh3036_B_D3-SIV_RNA1_Lib1_GL102_S98_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_R1_001.fastq.gz
+../final-fastq-set/G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_R1_001.fastq.gz
+../final-fastq-set/G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_R1_001.fastq.gz
+../final-fastq-set/G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 222
+Trim Galore running...
+../final-fastq-set/G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_R1_001.fastq.gz
+../final-fastq-set/G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_R1_001.fastq.gz
+../final-fastq-set/G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_R1_001.fastq.gz
+../final-fastq-set/G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_R1_001.fastq.gz
+../final-fastq-set/G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_R1_001.fastq.gz
+../final-fastq-set/G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_R1_001.fastq.gz
+../final-fastq-set/G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+Counter variable 228
+Trim Galore running...
+../final-fastq-set/G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_R1_001.fastq.gz
+../final-fastq-set/G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_R1_001.fastq.gz
+../final-fastq-set/G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_R1_001.fastq.gz
+../final-fastq-set/G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_R1_001.fastq.gz
+../final-fastq-set/G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_R1_001.fastq.gz
+../final-fastq-set/G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_R1_001.fastq.gz
+../final-fastq-set/G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_R2_001.fastq.gz
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 234
+Trim Galore running...
+../final-fastq-set/G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_R1_001.fastq.gz
+../final-fastq-set/G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_R1_001.fastq.gz
+../final-fastq-set/G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_R1_001.fastq.gz
+../final-fastq-set/G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_R1_001.fastq.gz
+../final-fastq-set/G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_R1_001.fastq.gz
+../final-fastq-set/G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_R1_001.fastq.gz
+../final-fastq-set/G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0
+Counter variable 240
+Trim Galore running...
+../final-fastq-set/G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_R1_001.fastq.gz
+../final-fastq-set/G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_R1_001.fastq.gz
+../final-fastq-set/G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_R1_001.fastq.gz
+../final-fastq-set/G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G454_Watkins07_Unvax_rh2995_B_D7_RNA1_Lib1_GL104_S92_R1_001.fastq.gz
+../final-fastq-set/G454_Watkins07_Unvax_rh2995_B_D7_RNA1_Lib1_GL104_S92_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/G455_Watkins07_AVR_rh3033_B_D7-SIV_RNA1_Lib1_GL105_S99_R1_001.fastq.gz
+../final-fastq-set/G455_Watkins07_AVR_rh3033_B_D7-SIV_RNA1_Lib1_GL105_S99_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+pigz 2.6
+igzip command line interface 2.30.0

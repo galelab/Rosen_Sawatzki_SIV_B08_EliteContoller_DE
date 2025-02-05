@@ -1,0 +1,22 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+41641063 reads; of these:
+  41641063 (100.00%) were paired; of these:
+    41582414 (99.86%) aligned concordantly 0 times
+    6151 (0.01%) aligned concordantly exactly 1 time
+    52498 (0.13%) aligned concordantly >1 times
+    ----
+    41582414 pairs aligned concordantly 0 times; of these:
+      3818 (0.01%) aligned discordantly 1 time
+    ----
+    41578596 pairs aligned 0 times concordantly or discordantly; of these:
+      83157192 mates make up the pairs; of these:
+        82917451 (99.71%) aligned 0 times
+        104477 (0.13%) aligned exactly 1 time
+        135264 (0.16%) aligned >1 times
+0.44% overall alignment rate

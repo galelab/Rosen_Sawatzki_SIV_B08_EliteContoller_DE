@@ -1,0 +1,29 @@
+2.7.10b_alpha_230301
+Number samples = 3 R1 files, should be 3
+Number samples = 3 R2 files, should be 3
+Loading Genome into memory 
+	/share/tools/Modules/STAR/2.7.10b/bin/STAR --genomeLoad LoadAndExit --genomeDir /vol01/genome/Macaca_mulatta/10.109/STAR_2.7.10b
+	STAR version: 2.7.10b_alpha_230301   compiled: 2023-03-01T12:56:50-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Sep 12 16:06:30 ..... started STAR run
+Sep 12 16:06:30 ..... loading genome
+Sep 12 16:06:51 ..... started mapping
+Sep 12 16:06:51 ..... finished mapping
+Sep 12 16:06:51 ..... finished successfully
+STATUS: Aligning Watkins on mendel...
+Counter variable 0
+Sample being processed G275_Watkins07_Unvax_r16003_B_D14-SIV_RNA1_Lib1_GL102_S26_nohmrRNA_noglobin
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/G275_Watkins07_Unvax_r16003_B_D14-SIV_RNA1_Lib1_GL102_S26_nohmrRNA_noglobin.fastq.1.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/G275_Watkins07_Unvax_r16003_B_D14-SIV_RNA1_Lib1_GL102_S26_nohmrRNA_noglobin.fastq.2.gz
+Sample being processed G276_Watkins07_Unvax_r17103_B_D7-SIV_RNA1_Lib1_GL104_S87_nohmrRNA_noglobin
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/G276_Watkins07_Unvax_r17103_B_D7-SIV_RNA1_Lib1_GL104_S87_nohmrRNA_noglobin.fastq.1.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/G276_Watkins07_Unvax_r17103_B_D7-SIV_RNA1_Lib1_GL104_S87_nohmrRNA_noglobin.fastq.2.gz
+Sample being processed G277_Watkins07_Unvax_r18067_B_D7-SIV_RNA1_Lib1_GL102_S65_nohmrRNA_noglobin
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/G277_Watkins07_Unvax_r18067_B_D7-SIV_RNA1_Lib1_GL102_S65_nohmrRNA_noglobin.fastq.1.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/G277_Watkins07_Unvax_r18067_B_D7-SIV_RNA1_Lib1_GL102_S65_nohmrRNA_noglobin.fastq.2.gz
+	STAR --genomeLoad Remove --genomeDir /vol01/genome/Macaca_mulatta/10.109/STAR_2.7.10b
+	STAR version: 2.7.10b_alpha_230301   compiled: 2023-03-01T12:56:50-05:00 :/home/dobin/data/STAR/STARcode/STAR.master/source
+Sep 12 16:20:31 ..... started STAR run
+Sep 12 16:20:31 ..... loading genome
+Sep 12 16:20:34 ..... started mapping
+Sep 12 16:20:34 ..... finished mapping
+Sep 12 16:20:35 ..... finished successfully

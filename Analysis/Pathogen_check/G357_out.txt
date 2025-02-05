@@ -1,0 +1,1025 @@
+A01156:794:HLW7CDMXY:1:1102:17535:20932	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:1106:32796:28134	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	83.158	95
+A01156:794:HLW7CDMXY:1:1108:1741:6699	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	96.970	33
+A01156:794:HLW7CDMXY:1:1108:2148:6872	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	96.970	33
+A01156:794:HLW7CDMXY:1:1113:21187:6433	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.426	94
+A01156:794:HLW7CDMXY:1:1113:21187:6433	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.426	94
+A01156:794:HLW7CDMXY:1:1113:23556:12383	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:1114:2112:16078	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1116:11740:22106	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.113	53
+A01156:794:HLW7CDMXY:1:1117:29677:14998	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1117:16224:15248	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:1:1117:16224:15248	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:1:1119:31512:17080	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:1121:32190:25394	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1121:32190:25394	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1122:25265:7357	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:1:1122:25211:7451	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:1:1127:1199:16438	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.750	96
+A01156:794:HLW7CDMXY:1:1127:1199:16438	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.750	96
+A01156:794:HLW7CDMXY:1:1127:1497:18020	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.750	96
+A01156:794:HLW7CDMXY:1:1127:1497:18020	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.750	96
+A01156:794:HLW7CDMXY:1:1130:31096:28228	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:1130:31096:28228	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:1131:18954:2440	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	96.970	33
+A01156:794:HLW7CDMXY:1:1132:16143:6840	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1132:16143:6840	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1132:29821:22827	NC_004330.2	NC_004330.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 9	94.118	34
+A01156:794:HLW7CDMXY:1:1135:28221:17895	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	53
+A01156:794:HLW7CDMXY:1:1139:17409:27289	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	29
+A01156:794:HLW7CDMXY:1:1139:5999:35055	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:1:1139:5267:35853	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:1:1141:31250:10019	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.318	88
+A01156:794:HLW7CDMXY:1:1141:31250:10019	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.318	88
+A01156:794:HLW7CDMXY:1:1142:20464:11099	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:1:1142:20464:11099	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:1:1142:11162:24424	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:1142:11071:24612	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:1142:10547:24580	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:1147:10529:1313	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:1150:26811:5181	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.909	99
+A01156:794:HLW7CDMXY:1:1150:26811:5181	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.909	99
+A01156:794:HLW7CDMXY:1:1158:22851:35399	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	83.838	99
+A01156:794:HLW7CDMXY:1:1158:22950:35916	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	83.838	99
+A01156:794:HLW7CDMXY:1:1162:6289:26443	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	30
+A01156:794:HLW7CDMXY:1:1166:29930:34131	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:1:1166:29930:34131	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:1:1168:26594:2456	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.783	92
+A01156:794:HLW7CDMXY:1:1168:27055:2503	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.783	92
+A01156:794:HLW7CDMXY:1:1169:26169:22044	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	54
+A01156:794:HLW7CDMXY:1:1169:25834:22122	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	54
+A01156:794:HLW7CDMXY:1:1179:8314:36432	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:1181:2944:27195	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.872	47
+A01156:794:HLW7CDMXY:1:1182:10375:15045	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1182:10004:15217	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1185:32597:36933	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.754	69
+A01156:794:HLW7CDMXY:1:1185:32597:36933	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.754	69
+A01156:794:HLW7CDMXY:1:1186:30852:1846	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.754	69
+A01156:794:HLW7CDMXY:1:1186:30852:1846	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.754	69
+A01156:794:HLW7CDMXY:1:1186:32334:36886	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1187:21829:14434	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:1203:27498:26287	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:1:1206:14724:18223	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:1:1206:14724:18223	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:1:1208:7699:35086	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.182	88
+A01156:794:HLW7CDMXY:1:1208:7699:35086	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.182	88
+A01156:794:HLW7CDMXY:1:1210:3278:7169	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:1:1210:3215:7185	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:1:1213:3929:13745	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.176	68
+A01156:794:HLW7CDMXY:1:1213:3929:13745	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.176	68
+A01156:794:HLW7CDMXY:1:1213:18719:15969	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	29
+A01156:794:HLW7CDMXY:1:1215:13250:3991	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:1:1215:13250:3991	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:1:1215:32488:7968	NC_004325.2	NC_004325.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 1	88.462	78
+A01156:794:HLW7CDMXY:1:1219:7256:33066	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:1222:2130:28385	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	81.188	101
+A01156:794:HLW7CDMXY:1:1228:32850:17206	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:1228:32750:17221	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:1231:22950:3223	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:1:1231:22950:3223	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:1:1233:26458:11804	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.466	103
+A01156:794:HLW7CDMXY:1:1233:26458:11804	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.466	103
+A01156:794:HLW7CDMXY:1:1233:6397:32706	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:1:1233:6397:32706	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:1:1236:20482:4867	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.875	64
+A01156:794:HLW7CDMXY:1:1236:20482:4867	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.875	64
+A01156:794:HLW7CDMXY:1:1239:6858:24205	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	28
+A01156:794:HLW7CDMXY:1:1240:11134:10535	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.000	75
+A01156:794:HLW7CDMXY:1:1240:11134:10535	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.000	75
+A01156:794:HLW7CDMXY:1:1240:14461:17613	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	92.593	54
+A01156:794:HLW7CDMXY:1:1241:31602:26976	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1245:29378:34272	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.784	97
+A01156:794:HLW7CDMXY:1:1245:29378:34272	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.784	97
+A01156:794:HLW7CDMXY:1:1247:6054:2707	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.774	31
+A01156:794:HLW7CDMXY:1:1247:17671:11616	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.186	86
+A01156:794:HLW7CDMXY:1:1247:17671:11616	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.186	86
+A01156:794:HLW7CDMXY:1:1249:6017:2707	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	88.525	61
+A01156:794:HLW7CDMXY:1:1251:15926:34397	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	30
+A01156:794:HLW7CDMXY:1:1255:31774:24799	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1257:9435:27665	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1262:18069:10144	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1265:15700:18599	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	33
+A01156:794:HLW7CDMXY:1:1265:15700:18599	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	33
+A01156:794:HLW7CDMXY:1:1265:19687:19398	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.444	72
+A01156:794:HLW7CDMXY:1:1265:19687:19398	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.444	72
+A01156:794:HLW7CDMXY:1:1265:17653:36135	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:1266:14615:1031	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.296	54
+A01156:794:HLW7CDMXY:1:1270:19063:20948	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1270:22616:36338	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:1:1273:31882:16438	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.816	98
+A01156:794:HLW7CDMXY:1:1273:31882:16438	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.816	98
+A01156:794:HLW7CDMXY:1:1276:18105:27085	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1279:15130:32456	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.000	100
+A01156:794:HLW7CDMXY:1:1279:15130:32456	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.000	100
+A01156:794:HLW7CDMXY:1:1282:5819:32017	NC_004327.3	NC_004327.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 6	100.000	29
+A01156:794:HLW7CDMXY:1:1283:26621:32753	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1283:26621:32753	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1285:26729:13651	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.000	100
+A01156:794:HLW7CDMXY:1:1285:26729:13651	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.000	100
+A01156:794:HLW7CDMXY:1:1301:21350:28855	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1302:27371:7341	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.110	91
+A01156:794:HLW7CDMXY:1:1302:27371:7341	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.110	91
+A01156:794:HLW7CDMXY:1:1305:22625:15342	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.226	53
+A01156:794:HLW7CDMXY:1:1307:28962:4429	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:1309:16351:11584	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1309:31421:25911	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.000	100
+A01156:794:HLW7CDMXY:1:1309:31421:25911	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.000	100
+A01156:794:HLW7CDMXY:1:1310:19289:32205	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	96.970	33
+A01156:794:HLW7CDMXY:1:1312:20365:27586	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:1315:2401:29136	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:1:1317:14425:13291	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1317:14452:13683	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1318:32181:15076	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	83.871	93
+A01156:794:HLW7CDMXY:1:1318:12237:24314	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	93.878	49
+A01156:794:HLW7CDMXY:1:1318:6732:25989	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:1320:7265:35149	NC_004327.3	NC_004327.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 6	100.000	29
+A01156:794:HLW7CDMXY:1:1321:21070:26804	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1321:21160:27618	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1325:25066:25582	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	79.798	99
+A01156:794:HLW7CDMXY:1:1325:25066:25582	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	79.798	99
+A01156:794:HLW7CDMXY:1:1326:1823:17268	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	92.105	38
+A01156:794:HLW7CDMXY:1:1330:3079:4883	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.228	57
+A01156:794:HLW7CDMXY:1:1330:3079:4883	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.228	57
+A01156:794:HLW7CDMXY:1:1330:19226:18756	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:1335:17155:35368	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.000	100
+A01156:794:HLW7CDMXY:1:1335:17155:35368	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.000	100
+A01156:794:HLW7CDMXY:1:1335:10737:36808	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.615	91
+A01156:794:HLW7CDMXY:1:1336:8811:1282	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.615	91
+A01156:794:HLW7CDMXY:1:1336:9019:1297	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.615	91
+A01156:794:HLW7CDMXY:1:1339:25355:3818	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1340:13774:9784	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1341:20112:30968	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	96.970	33
+A01156:794:HLW7CDMXY:1:1344:13819:22294	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.211	95
+A01156:794:HLW7CDMXY:1:1345:29704:22310	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.113	53
+A01156:794:HLW7CDMXY:1:1346:6912:27993	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:1:1353:4020:11741	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1354:8178:19100	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:1:1354:8178:19100	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:1:1356:26386:29309	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:1:1356:26386:29309	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:1:1356:23936:29168	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:1:1356:23936:29168	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:1:1356:8567:33739	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.629	97
+A01156:794:HLW7CDMXY:1:1356:8567:33739	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.629	97
+A01156:794:HLW7CDMXY:1:1357:10294:25207	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	100.000	29
+A01156:794:HLW7CDMXY:1:1362:22028:29121	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.154	78
+A01156:794:HLW7CDMXY:1:1362:22028:29121	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.154	78
+A01156:794:HLW7CDMXY:1:1365:32597:9502	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:1:1365:32597:9502	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:1:1365:12762:27665	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	89.796	98
+A01156:794:HLW7CDMXY:1:1365:12436:29888	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:1:1365:12436:29888	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:1:1368:20365:30780	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.375	96
+A01156:794:HLW7CDMXY:1:1368:20365:30780	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.375	96
+A01156:794:HLW7CDMXY:1:1373:19605:3286	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	30
+A01156:794:HLW7CDMXY:1:1373:19605:3286	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:1:1373:19605:3286	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:1:1373:22037:36871	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.500	40
+A01156:794:HLW7CDMXY:1:1378:28763:30452	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1379:16803:1251	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1379:3387:30655	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.437	103
+A01156:794:HLW7CDMXY:1:1379:3387:30655	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.437	103
+A01156:794:HLW7CDMXY:1:1380:16206:34945	NC_000521.4	NC_000521.4 Plasmodium falciparum 3D7 genome assembly, chromosome: 3	100.000	29
+A01156:794:HLW7CDMXY:1:1382:3694:17378	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.420	81
+A01156:794:HLW7CDMXY:1:1383:3803:10739	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1388:30056:1501	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1404:8585:5744	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:1410:14913:36276	NC_004326.2	NC_004326.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 5	100.000	28
+A01156:794:HLW7CDMXY:1:1413:3251:9408	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.524	84
+A01156:794:HLW7CDMXY:1:1413:3251:9408	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.524	84
+A01156:794:HLW7CDMXY:1:1413:24686:12774	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:1414:25925:16673	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:1416:31213:19914	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	44
+A01156:794:HLW7CDMXY:1:1419:1768:28573	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.429	84
+A01156:794:HLW7CDMXY:1:1420:28375:32064	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.774	62
+A01156:794:HLW7CDMXY:1:1420:28375:32064	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.774	62
+A01156:794:HLW7CDMXY:1:1422:8567:23531	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	94.118	34
+A01156:794:HLW7CDMXY:1:1422:1841:29512	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	93.750	48
+A01156:794:HLW7CDMXY:1:1425:12780:10128	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.228	57
+A01156:794:HLW7CDMXY:1:1425:12780:10128	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.228	57
+A01156:794:HLW7CDMXY:1:1428:9326:3583	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	29
+A01156:794:HLW7CDMXY:1:1433:20247:21590	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	28
+A01156:794:HLW7CDMXY:1:1441:14913:14199	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.747	83
+A01156:794:HLW7CDMXY:1:1444:5276:9471	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:1:1445:12066:24956	NC_004325.2	NC_004325.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 1	88.462	78
+A01156:794:HLW7CDMXY:1:1454:24532:29199	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.722	97
+A01156:794:HLW7CDMXY:1:1454:24532:29199	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.722	97
+A01156:794:HLW7CDMXY:1:1458:20844:21840	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:1461:7681:2832	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1461:7681:2832	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1461:7961:3662	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1461:7961:3662	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1461:8061:3427	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1461:8061:3427	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:1463:14886:9142	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:1:1463:14886:9142	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:1:1465:6162:33019	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	31
+A01156:794:HLW7CDMXY:1:1465:6162:33019	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1468:18457:27571	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.500	40
+A01156:794:HLW7CDMXY:1:1468:18457:27571	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.500	40
+A01156:794:HLW7CDMXY:1:1474:30463:27821	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.000	100
+A01156:794:HLW7CDMXY:1:1474:30463:27821	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.000	100
+A01156:794:HLW7CDMXY:1:1474:12355:36605	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.203	69
+A01156:794:HLW7CDMXY:1:1474:12355:36605	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.203	69
+A01156:794:HLW7CDMXY:1:1475:24641:14387	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:1:1475:24641:14387	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:1:1478:2266:32252	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:1485:28302:9956	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:1487:23800:27461	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	96.970	33
+A01156:794:HLW7CDMXY:1:1488:10899:1924	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	30
+A01156:794:HLW7CDMXY:1:1488:10899:1924	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	30
+A01156:794:HLW7CDMXY:1:1488:10899:1924	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:1:1488:10899:1924	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:1:1488:10899:1924	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:1:1488:10899:1924	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:1:1488:10899:1924	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:1:1488:5791:26522	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:1488:5348:26694	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:2105:17644:6715	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:1:2105:27416:20071	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.890	73
+A01156:794:HLW7CDMXY:1:2105:27416:20071	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.890	73
+A01156:794:HLW7CDMXY:1:2110:21206:3364	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	91.026	78
+A01156:794:HLW7CDMXY:1:2113:11614:14278	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2115:17680:10942	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2117:2926:23625	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:2117:2926:23625	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:2119:3079:5854	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:2120:14823:17237	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.372	86
+A01156:794:HLW7CDMXY:1:2120:14823:17237	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.372	86
+A01156:794:HLW7CDMXY:1:2124:14470:12931	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.567	97
+A01156:794:HLW7CDMXY:1:2124:14470:12931	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.567	97
+A01156:794:HLW7CDMXY:1:2130:9815:10034	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	94.286	35
+A01156:794:HLW7CDMXY:1:2130:32280:18912	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2134:13160:35963	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2141:5294:22592	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2145:25581:11099	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2149:10303:21590	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:2149:10303:21590	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:2150:11017:33035	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2151:15221:20149	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.708	96
+A01156:794:HLW7CDMXY:1:2151:15221:20149	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.708	96
+A01156:794:HLW7CDMXY:1:2153:29116:2378	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2154:10664:35963	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	95.455	44
+A01156:794:HLW7CDMXY:1:2154:10294:35978	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	95.455	44
+A01156:794:HLW7CDMXY:1:2155:9462:22670	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	30
+A01156:794:HLW7CDMXY:1:2158:15103:14184	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2158:15374:14246	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2160:24270:10488	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:1:2161:5122:30311	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.593	54
+A01156:794:HLW7CDMXY:1:2161:5122:30311	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.593	54
+A01156:794:HLW7CDMXY:1:2163:24171:17895	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.420	81
+A01156:794:HLW7CDMXY:1:2164:31042:9377	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:1:2164:21920:9643	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.154	78
+A01156:794:HLW7CDMXY:1:2164:21920:9643	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.154	78
+A01156:794:HLW7CDMXY:1:2164:28772:34851	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.721	61
+A01156:794:HLW7CDMXY:1:2164:28772:34851	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.721	61
+A01156:794:HLW7CDMXY:1:2170:29017:15421	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2171:12753:22232	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:1:2178:12156:1846	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.491	57
+A01156:794:HLW7CDMXY:1:2178:12156:1846	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.491	57
+A01156:794:HLW7CDMXY:1:2180:21088:33035	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	95.000	60
+A01156:794:HLW7CDMXY:1:2181:11577:4163	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	92.157	51
+A01156:794:HLW7CDMXY:1:2183:23475:16626	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	89.796	49
+A01156:794:HLW7CDMXY:1:2205:15528:9940	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.000	100
+A01156:794:HLW7CDMXY:1:2205:15528:9940	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.000	100
+A01156:794:HLW7CDMXY:1:2206:24108:9706	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2208:5204:13667	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	83.838	99
+A01156:794:HLW7CDMXY:1:2208:5204:13667	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	83.838	99
+A01156:794:HLW7CDMXY:1:2209:3125:20744	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:1:2212:10411:26162	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:2212:10429:26068	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:2214:32633:27258	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:1:2216:17255:14372	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.959	49
+A01156:794:HLW7CDMXY:1:2216:27281:17206	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.918	49
+A01156:794:HLW7CDMXY:1:2216:27281:17206	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.918	49
+A01156:794:HLW7CDMXY:1:2216:19840:25927	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.629	97
+A01156:794:HLW7CDMXY:1:2216:19840:25927	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.629	97
+A01156:794:HLW7CDMXY:1:2218:9977:6965	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.043	94
+A01156:794:HLW7CDMXY:1:2222:8929:17049	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:2222:13160:29481	NC_004330.2	NC_004330.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 9	100.000	28
+A01156:794:HLW7CDMXY:1:2223:15899:36636	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.113	53
+A01156:794:HLW7CDMXY:1:2227:32850:8281	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:2227:32850:8281	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:2227:17327:30248	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.982	57
+A01156:794:HLW7CDMXY:1:2227:17327:30248	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.982	57
+A01156:794:HLW7CDMXY:1:2233:21649:15655	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2235:25211:23860	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2239:24777:20635	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:1:2239:24777:20635	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:1:2243:9326:11381	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:1:2243:9227:11459	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:1:2246:24406:17738	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	94.595	37
+A01156:794:HLW7CDMXY:1:2246:16025:19601	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.476	42
+A01156:794:HLW7CDMXY:1:2246:16025:19601	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.476	42
+A01156:794:HLW7CDMXY:1:2246:16025:19601	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	29
+A01156:794:HLW7CDMXY:1:2246:16025:19601	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	29
+A01156:794:HLW7CDMXY:1:2249:2003:32393	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	90.566	53
+A01156:794:HLW7CDMXY:1:2264:22164:24596	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:2264:22164:24596	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.667	72
+A01156:794:HLW7CDMXY:1:2269:18837:11506	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:1:2269:18837:11506	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:1:2269:18792:11929	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:1:2269:18792:11929	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:1:2270:26494:19977	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.545	55
+A01156:794:HLW7CDMXY:1:2272:31006:8594	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.424	66
+A01156:794:HLW7CDMXY:1:2272:31006:8594	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.424	66
+A01156:794:HLW7CDMXY:1:2273:11695:4241	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.420	81
+A01156:794:HLW7CDMXY:1:2275:18322:2002	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.826	46
+A01156:794:HLW7CDMXY:1:2275:18322:2002	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.826	46
+A01156:794:HLW7CDMXY:1:2275:18204:2018	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.872	47
+A01156:794:HLW7CDMXY:1:2275:18204:2018	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.872	47
+A01156:794:HLW7CDMXY:1:2276:31286:32283	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:1:2276:31286:32283	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:1:2282:21703:33661	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2284:16712:32095	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:1:2286:9408:35164	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	36
+A01156:794:HLW7CDMXY:1:2287:14353:27477	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:1:2288:2935:23860	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.946	74
+A01156:794:HLW7CDMXY:1:2288:2935:23860	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.946	74
+A01156:794:HLW7CDMXY:1:2302:32325:7185	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2307:24279:2519	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2308:2962:6464	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:1:2308:2962:6464	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:1:2309:10655:30780	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.429	84
+A01156:794:HLW7CDMXY:1:2310:29243:27085	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:2313:19000:5682	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.455	88
+A01156:794:HLW7CDMXY:1:2313:19000:5682	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.455	88
+A01156:794:HLW7CDMXY:1:2314:4200:20478	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	48
+A01156:794:HLW7CDMXY:1:2315:14805:30201	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2318:3179:32957	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2319:21757:23359	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	97.059	34
+A01156:794:HLW7CDMXY:1:2319:21757:23359	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	92.105	38
+A01156:794:HLW7CDMXY:1:2321:27733:1078	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.816	98
+A01156:794:HLW7CDMXY:1:2321:27733:1078	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.816	98
+A01156:794:HLW7CDMXY:1:2321:23267:12164	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:2325:14163:5008	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2326:1841:11569	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	92.105	38
+A01156:794:HLW7CDMXY:1:2326:2076:11757	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	92.105	38
+A01156:794:HLW7CDMXY:1:2328:2889:32894	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.101	69
+A01156:794:HLW7CDMXY:1:2328:2889:32894	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.101	69
+A01156:794:HLW7CDMXY:1:2330:26820:10332	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.143	35
+A01156:794:HLW7CDMXY:1:2330:26820:10332	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.143	35
+A01156:794:HLW7CDMXY:1:2336:1090:22921	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2336:10583:31313	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.176	68
+A01156:794:HLW7CDMXY:1:2336:10583:31313	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.176	68
+A01156:794:HLW7CDMXY:1:2337:24831:14215	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.745	47
+A01156:794:HLW7CDMXY:1:2337:24831:14215	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.745	47
+A01156:794:HLW7CDMXY:1:2338:19678:6417	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2338:21187:30420	NC_004326.2	NC_004326.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 5	100.000	31
+A01156:794:HLW7CDMXY:1:2341:9019:14105	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2348:17598:32878	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.077	52
+A01156:794:HLW7CDMXY:1:2349:6623:12367	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:1:2352:17119:21715	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:2352:16731:22044	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:2355:2465:6230	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.755	98
+A01156:794:HLW7CDMXY:1:2355:2465:6230	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.755	98
+A01156:794:HLW7CDMXY:1:2355:9290:26318	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:2355:9290:26318	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:1:2355:11975:29152	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:1:2357:13648:2018	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:1:2360:8811:16125	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:1:2360:8811:16125	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:1:2366:24352:15452	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.000	100
+A01156:794:HLW7CDMXY:1:2366:24352:15452	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.000	100
+A01156:794:HLW7CDMXY:1:2366:24433:16000	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.000	100
+A01156:794:HLW7CDMXY:1:2366:24433:16000	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.000	100
+A01156:794:HLW7CDMXY:1:2369:6849:8030	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2369:7952:8844	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2371:14507:24017	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:2374:8938:16595	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:2374:9733:16814	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:2379:27100:11350	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2380:2908:3740	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	29
+A01156:794:HLW7CDMXY:1:2380:3088:3865	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	29
+A01156:794:HLW7CDMXY:1:2385:23303:34334	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2385:23303:34334	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2385:23303:34334	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2385:23303:34334	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2385:23303:34334	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2385:23303:34334	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2385:23303:34334	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2388:6162:27070	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:1:2388:6162:27070	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:1:2388:20419:31782	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.476	42
+A01156:794:HLW7CDMXY:1:2388:20419:31782	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.476	42
+A01156:794:HLW7CDMXY:1:2388:20419:31782	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	29
+A01156:794:HLW7CDMXY:1:2388:20419:31782	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	29
+A01156:794:HLW7CDMXY:1:2401:7220:17409	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2401:6994:17801	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2402:32099:33442	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.674	43
+A01156:794:HLW7CDMXY:1:2402:32099:33442	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.674	43
+A01156:794:HLW7CDMXY:1:2402:31955:33505	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.674	43
+A01156:794:HLW7CDMXY:1:2402:31955:33505	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.674	43
+A01156:794:HLW7CDMXY:1:2402:32018:33990	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.674	43
+A01156:794:HLW7CDMXY:1:2402:32018:33990	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.674	43
+A01156:794:HLW7CDMXY:1:2406:17978:17597	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:1:2406:8793:29559	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:2408:28049:30937	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.000	50
+A01156:794:HLW7CDMXY:1:2408:28185:31109	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.000	50
+A01156:794:HLW7CDMXY:1:2408:29939:31548	NC_004330.2	NC_004330.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 9	95.000	40
+A01156:794:HLW7CDMXY:1:2408:29514:31751	NC_004330.2	NC_004330.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 9	95.000	40
+A01156:794:HLW7CDMXY:1:2412:1551:11068	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:1:2412:1551:11068	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:1:2416:11532:1141	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	93.878	49
+A01156:794:HLW7CDMXY:1:2427:29903:36714	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.878	49
+A01156:794:HLW7CDMXY:1:2427:29903:36714	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.878	49
+A01156:794:HLW7CDMXY:1:2428:11306:15468	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.113	53
+A01156:794:HLW7CDMXY:1:2429:21585:8093	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:1:2429:21585:8093	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:1:2431:11957:16845	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.436	39
+A01156:794:HLW7CDMXY:1:2433:3766:32565	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:1:2434:22860:34507	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.118	85
+A01156:794:HLW7CDMXY:1:2434:22860:34507	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.118	85
+A01156:794:HLW7CDMXY:1:2434:22797:34585	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.118	85
+A01156:794:HLW7CDMXY:1:2434:22797:34585	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.118	85
+A01156:794:HLW7CDMXY:1:2435:17897:23782	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.917	48
+A01156:794:HLW7CDMXY:1:2436:20283:19617	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:1:2439:26747:25269	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2440:15962:9846	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:1:2440:15962:9846	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:1:2442:27887:27336	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:1:2444:10303:36933	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.231	52
+A01156:794:HLW7CDMXY:1:2446:9426:3255	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.553	94
+A01156:794:HLW7CDMXY:1:2446:9426:3255	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.553	94
+A01156:794:HLW7CDMXY:1:2446:3893:10551	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:1:2461:18222:2300	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2461:31412:3349	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	96.970	33
+A01156:794:HLW7CDMXY:1:2462:18132:30733	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	30
+A01156:794:HLW7CDMXY:1:2464:4390:2895	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:1:2464:8856:35274	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.875	64
+A01156:794:HLW7CDMXY:1:2464:8856:35274	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.875	64
+A01156:794:HLW7CDMXY:1:2465:13702:31360	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:1:2465:13702:31360	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2465:13702:31360	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:1:2467:4155:14231	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:1:2472:10556:17487	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2473:3287:2206	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	93.548	62
+A01156:794:HLW7CDMXY:1:2473:3287:2206	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	93.548	62
+A01156:794:HLW7CDMXY:1:2473:9136:8609	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	93.750	48
+A01156:794:HLW7CDMXY:1:2473:8458:9784	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	93.750	48
+A01156:794:HLW7CDMXY:1:2474:27516:34522	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.000	100
+A01156:794:HLW7CDMXY:1:2474:27516:34522	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.000	100
+A01156:794:HLW7CDMXY:1:2476:24144:17691	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	82.178	101
+A01156:794:HLW7CDMXY:1:2476:24144:17691	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	82.178	101
+A01156:794:HLW7CDMXY:1:2477:10818:15405	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2482:24397:31062	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	96.970	33
+A01156:794:HLW7CDMXY:1:2482:6867:33458	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:1:2483:7916:25347	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:1:2484:31494:27915	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.429	84
+A01156:794:HLW7CDMXY:2:1101:23014:19930	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.561	41
+A01156:794:HLW7CDMXY:2:1102:3866:30514	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	93.421	76
+A01156:794:HLW7CDMXY:2:1102:3866:30514	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	93.421	76
+A01156:794:HLW7CDMXY:2:1110:7762:19820	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:2:1110:7762:19820	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:2:1110:27362:32189	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.258	89
+A01156:794:HLW7CDMXY:2:1110:27362:32189	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.258	89
+A01156:794:HLW7CDMXY:2:1114:24207:7811	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1116:29830:17487	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1125:4508:36104	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:1129:16459:8923	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.312	77
+A01156:794:HLW7CDMXY:2:1129:16459:8923	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.312	77
+A01156:794:HLW7CDMXY:2:1130:21224:1297	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:1131:24523:28150	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.235	68
+A01156:794:HLW7CDMXY:2:1131:24523:28150	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.235	68
+A01156:794:HLW7CDMXY:2:1133:6171:9298	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.735	98
+A01156:794:HLW7CDMXY:2:1133:6171:9298	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.735	98
+A01156:794:HLW7CDMXY:2:1135:21992:22232	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.500	104
+A01156:794:HLW7CDMXY:2:1135:21992:22232	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.500	104
+A01156:794:HLW7CDMXY:2:1135:22905:33176	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.420	81
+A01156:794:HLW7CDMXY:2:1136:14452:15468	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.368	38
+A01156:794:HLW7CDMXY:2:1136:14452:15468	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.368	38
+A01156:794:HLW7CDMXY:2:1136:26160:18928	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.619	42
+A01156:794:HLW7CDMXY:2:1136:26169:19570	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.619	42
+A01156:794:HLW7CDMXY:2:1141:5620:35117	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	36
+A01156:794:HLW7CDMXY:2:1142:10348:18850	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	90.909	44
+A01156:794:HLW7CDMXY:2:1145:3667:8688	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.610	59
+A01156:794:HLW7CDMXY:2:1145:3667:8688	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.610	59
+A01156:794:HLW7CDMXY:2:1146:16405:12336	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.043	94
+A01156:794:HLW7CDMXY:2:1148:13612:8469	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.000	50
+A01156:794:HLW7CDMXY:2:1148:14036:8672	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.000	50
+A01156:794:HLW7CDMXY:2:1148:10728:16658	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.000	50
+A01156:794:HLW7CDMXY:2:1148:10691:16689	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.000	50
+A01156:794:HLW7CDMXY:2:1152:2691:20024	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1154:24171:1266	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1155:30698:25285	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:2:1155:30698:25285	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.458	96
+A01156:794:HLW7CDMXY:2:1162:2817:32831	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:1166:19605:27367	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:1167:9751:26741	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.091	88
+A01156:794:HLW7CDMXY:2:1167:9751:26741	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.091	88
+A01156:794:HLW7CDMXY:2:1168:10185:1094	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:2:1168:10185:1094	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:2:1168:10574:1423	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1168:8305:12806	NC_004330.2	NC_004330.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 9	94.118	34
+A01156:794:HLW7CDMXY:2:1171:18168:1329	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:2:1171:18168:1329	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:2:1174:22923:27759	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.610	59
+A01156:794:HLW7CDMXY:2:1174:22923:27759	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.610	59
+A01156:794:HLW7CDMXY:2:1178:14597:14685	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.643	56
+A01156:794:HLW7CDMXY:2:1179:17571:25692	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	96.970	33
+A01156:794:HLW7CDMXY:2:1186:5376:36980	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.486	74
+A01156:794:HLW7CDMXY:2:1201:18141:2284	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	79.798	99
+A01156:794:HLW7CDMXY:2:1201:18141:2284	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	79.798	99
+A01156:794:HLW7CDMXY:2:1201:9661:6324	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.918	49
+A01156:794:HLW7CDMXY:2:1201:9661:6324	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.918	49
+A01156:794:HLW7CDMXY:2:1203:28266:13056	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.655	58
+A01156:794:HLW7CDMXY:2:1203:28266:13056	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.655	58
+A01156:794:HLW7CDMXY:2:1210:24677:5149	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	92.157	51
+A01156:794:HLW7CDMXY:2:1211:8458:17237	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.982	57
+A01156:794:HLW7CDMXY:2:1211:8458:17237	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.982	57
+A01156:794:HLW7CDMXY:2:1215:17689:15342	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.000	50
+A01156:794:HLW7CDMXY:2:1216:3848:5776	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	35
+A01156:794:HLW7CDMXY:2:1218:14181:8077	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1218:14181:8077	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1218:14181:8077	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1218:14181:8077	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1218:14181:8077	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1218:14181:8077	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1218:14181:8077	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1219:31747:2644	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	83.871	93
+A01156:794:HLW7CDMXY:2:1224:31385:24189	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:1224:31385:24189	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:1225:12038:28886	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1228:21829:11052	NC_004326.2	NC_004326.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 5	100.000	31
+A01156:794:HLW7CDMXY:2:1234:11749:27759	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.453	53
+A01156:794:HLW7CDMXY:2:1234:11749:27759	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.453	53
+A01156:794:HLW7CDMXY:2:1235:7916:18176	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.982	57
+A01156:794:HLW7CDMXY:2:1235:7916:18176	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.982	57
+A01156:794:HLW7CDMXY:2:1237:13964:26991	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.783	92
+A01156:794:HLW7CDMXY:2:1242:12599:25661	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.129	101
+A01156:794:HLW7CDMXY:2:1242:12599:25661	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.129	101
+A01156:794:HLW7CDMXY:2:1243:8214:35477	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:1244:10755:22717	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	31
+A01156:794:HLW7CDMXY:2:1245:7093:7952	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.368	76
+A01156:794:HLW7CDMXY:2:1245:7093:7952	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.368	76
+A01156:794:HLW7CDMXY:2:1248:20509:21699	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.583	96
+A01156:794:HLW7CDMXY:2:1248:20509:21699	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.583	96
+A01156:794:HLW7CDMXY:2:1250:29514:19319	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1250:28519:19727	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1251:3685:30138	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.524	84
+A01156:794:HLW7CDMXY:2:1251:3685:30138	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.524	84
+A01156:794:HLW7CDMXY:2:1251:3694:30123	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.524	84
+A01156:794:HLW7CDMXY:2:1251:3694:30123	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.524	84
+A01156:794:HLW7CDMXY:2:1252:21160:20165	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:1252:21160:20165	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:1252:23782:21136	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:1252:23782:21136	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:1252:21441:22341	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:1252:21441:22341	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:1257:24252:36385	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.000	100
+A01156:794:HLW7CDMXY:2:1258:15266:20322	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.667	90
+A01156:794:HLW7CDMXY:2:1258:15266:20322	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.667	90
+A01156:794:HLW7CDMXY:2:1258:8929:36432	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1259:4417:2816	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	94.505	91
+A01156:794:HLW7CDMXY:2:1262:11406:32988	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:1263:11505:1939	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.231	52
+A01156:794:HLW7CDMXY:2:1263:29460:32816	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:1263:29460:32816	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:1264:26133:22608	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	36
+A01156:794:HLW7CDMXY:2:1267:10809:32049	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:1268:19479:17065	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:1268:19479:17065	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:1268:29089:35117	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	30
+A01156:794:HLW7CDMXY:2:1268:29089:35117	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1268:29089:35117	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1269:25735:19539	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1272:21757:23797	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:1272:22092:24126	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:1273:9182:10410	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:1278:11650:32503	NC_037280.1	NC_037280.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 2	100.000	28
+A01156:794:HLW7CDMXY:2:1278:14814:36010	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:1286:1072:10927	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	54
+A01156:794:HLW7CDMXY:2:1288:25473:10379	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1302:16441:9549	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:2:1302:16441:9549	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:2:1302:13440:33692	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1302:13440:33692	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1302:13006:34037	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1302:13006:34037	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1305:14841:10755	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	91.026	78
+A01156:794:HLW7CDMXY:2:1306:2474:15922	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	44
+A01156:794:HLW7CDMXY:2:1307:24451:20823	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.176	68
+A01156:794:HLW7CDMXY:2:1307:24451:20823	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.176	68
+A01156:794:HLW7CDMXY:2:1307:3965:27712	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1308:9706:7341	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:2:1308:9706:7341	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:2:1311:31765:7153	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	30
+A01156:794:HLW7CDMXY:2:1315:17743:25269	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.537	67
+A01156:794:HLW7CDMXY:2:1315:17743:25269	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.537	67
+A01156:794:HLW7CDMXY:2:1316:19777:8093	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.774	62
+A01156:794:HLW7CDMXY:2:1316:19777:8093	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.774	62
+A01156:794:HLW7CDMXY:2:1316:13819:28432	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.077	52
+A01156:794:HLW7CDMXY:2:1321:1506:23641	NC_004330.2	NC_004330.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 9	94.118	34
+A01156:794:HLW7CDMXY:2:1322:9652:8907	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:1322:9652:8907	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:1322:9652:8907	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:1323:9724:5087	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.118	51
+A01156:794:HLW7CDMXY:2:1324:17743:1251	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1324:8784:22529	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	35
+A01156:794:HLW7CDMXY:2:1326:21902:15154	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:1326:23647:15828	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:1329:32633:35430	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.565	92
+A01156:794:HLW7CDMXY:2:1329:32633:35430	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.565	92
+A01156:794:HLW7CDMXY:2:1334:24424:17112	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	88.525	61
+A01156:794:HLW7CDMXY:2:1338:30662:29700	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1338:30924:30185	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1339:15953:21136	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	80.000	100
+A01156:794:HLW7CDMXY:2:1339:15953:21136	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	80.000	100
+A01156:794:HLW7CDMXY:2:1340:31774:12336	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.875	32
+A01156:794:HLW7CDMXY:2:1342:2564:6402	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1344:20202:29810	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:1348:15284:29810	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:1360:12310:6120	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	93.548	62
+A01156:794:HLW7CDMXY:2:1360:12310:6120	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	93.548	62
+A01156:794:HLW7CDMXY:2:1360:23493:15280	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	33
+A01156:794:HLW7CDMXY:2:1360:23493:15280	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	100.000	33
+A01156:794:HLW7CDMXY:2:1365:31901:20290	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:1365:31901:20290	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:1365:8558:25019	NC_037280.1	NC_037280.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 2	100.000	28
+A01156:794:HLW7CDMXY:2:1366:7139:3364	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	35
+A01156:794:HLW7CDMXY:2:1366:19199:10567	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:2:1366:22652:26600	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	32
+A01156:794:HLW7CDMXY:2:1367:27570:36025	NC_001802.1	NC_001802.1 Human immunodeficiency virus 1, complete genome	96.970	33
+A01156:794:HLW7CDMXY:2:1368:28592:25989	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:2:1368:28592:25989	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.625	64
+A01156:794:HLW7CDMXY:2:1369:14253:16250	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:2:1369:14253:16250	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:2:1370:28980:12352	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	93.750	48
+A01156:794:HLW7CDMXY:2:1371:2338:12649	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:2:1371:2636:14794	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	90.625	64
+A01156:794:HLW7CDMXY:2:1375:27380:19914	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	97.590	83
+A01156:794:HLW7CDMXY:2:1375:26793:19899	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	97.590	83
+A01156:794:HLW7CDMXY:2:1375:26639:20979	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	97.590	83
+A01156:794:HLW7CDMXY:2:1375:27046:32643	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1376:15365:27508	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1376:15365:27508	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1377:14217:35759	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.375	96
+A01156:794:HLW7CDMXY:2:1377:14217:35759	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.375	96
+A01156:794:HLW7CDMXY:2:1378:24279:15765	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:2:1379:23665:3239	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	52
+A01156:794:HLW7CDMXY:2:1379:22471:10974	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	30
+A01156:794:HLW7CDMXY:2:1379:22471:10974	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	30
+A01156:794:HLW7CDMXY:2:1379:22471:10974	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:1379:22471:10974	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:1379:22471:10974	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:1379:22471:10974	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:1379:22471:10974	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:1379:19208:29309	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:2:1379:19045:29684	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:2:1380:26006:8578	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.323	93
+A01156:794:HLW7CDMXY:2:1380:26006:8578	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.323	93
+A01156:794:HLW7CDMXY:2:1380:25672:16141	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.231	52
+A01156:794:HLW7CDMXY:2:1383:17219:23797	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1384:30092:4194	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.393	89
+A01156:794:HLW7CDMXY:2:1384:30092:4194	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.393	89
+A01156:794:HLW7CDMXY:2:1387:13738:5400	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1387:13476:5447	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1387:10691:28620	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:1406:16884:26788	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1407:30680:7122	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.444	36
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.737	38
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	92.105	38
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	92.105	38
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:2:1409:23511:34632	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:2:1410:6831:21339	NC_004326.2	NC_004326.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 5	96.970	33
+A01156:794:HLW7CDMXY:2:1411:24288:8641	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:2:1411:24288:8641	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:2:1413:9127:18646	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:1413:9127:18646	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:1413:9417:18677	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:1413:9417:18677	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:1417:18340:9173	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:2:1418:20365:14215	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1420:28800:6057	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	29
+A01156:794:HLW7CDMXY:2:1420:29188:21042	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	30
+A01156:794:HLW7CDMXY:2:1420:29188:21042	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1420:29188:21042	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1421:7943:35603	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	54
+A01156:794:HLW7CDMXY:2:1423:32588:3850	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	83.158	95
+A01156:794:HLW7CDMXY:2:1423:32588:3850	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	83.158	95
+A01156:794:HLW7CDMXY:2:1424:4824:21652	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1427:19506:30859	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:1429:14687:25958	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:1429:14687:25958	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:1435:24813:35352	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	30
+A01156:794:HLW7CDMXY:2:1435:24813:35352	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1435:24813:35352	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1436:25925:20369	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:1437:22525:14857	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1437:22525:14857	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.957	92
+A01156:794:HLW7CDMXY:2:1437:23231:15045	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.870	92
+A01156:794:HLW7CDMXY:2:1437:23231:15045	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.870	92
+A01156:794:HLW7CDMXY:2:1438:9796:6934	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.071	56
+A01156:794:HLW7CDMXY:2:1438:9796:6934	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.071	56
+A01156:794:HLW7CDMXY:2:1438:10863:6746	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.071	56
+A01156:794:HLW7CDMXY:2:1438:10863:6746	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.071	56
+A01156:794:HLW7CDMXY:2:1438:8024:18865	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.164	61
+A01156:794:HLW7CDMXY:2:1438:8024:18865	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.164	61
+A01156:794:HLW7CDMXY:2:1448:1208:9095	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1449:16315:9204	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.567	97
+A01156:794:HLW7CDMXY:2:1449:16315:9204	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.567	97
+A01156:794:HLW7CDMXY:2:1449:16251:9157	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.567	97
+A01156:794:HLW7CDMXY:2:1449:16251:9157	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.567	97
+A01156:794:HLW7CDMXY:2:1454:32606:13307	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	96.970	33
+A01156:794:HLW7CDMXY:2:1459:9751:27336	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.000	100
+A01156:794:HLW7CDMXY:2:1459:9751:27336	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.000	100
+A01156:794:HLW7CDMXY:2:1460:11659:20431	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.629	97
+A01156:794:HLW7CDMXY:2:1460:11659:20431	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	87.629	97
+A01156:794:HLW7CDMXY:2:1462:16251:19147	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.318	88
+A01156:794:HLW7CDMXY:2:1462:16251:19147	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.318	88
+A01156:794:HLW7CDMXY:2:1463:11731:30702	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.825	63
+A01156:794:HLW7CDMXY:2:1463:11731:30702	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.825	63
+A01156:794:HLW7CDMXY:2:1464:22616:11318	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1464:22408:11992	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1466:29369:13964	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.825	63
+A01156:794:HLW7CDMXY:2:1466:29369:13964	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.825	63
+A01156:794:HLW7CDMXY:2:1466:29405:14027	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.825	63
+A01156:794:HLW7CDMXY:2:1466:29405:14027	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.825	63
+A01156:794:HLW7CDMXY:2:1466:23927:26710	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.453	53
+A01156:794:HLW7CDMXY:2:1466:23927:26710	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.453	53
+A01156:794:HLW7CDMXY:2:1466:23918:26725	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.453	53
+A01156:794:HLW7CDMXY:2:1466:23918:26725	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.453	53
+A01156:794:HLW7CDMXY:2:1467:17906:6574	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	33
+A01156:794:HLW7CDMXY:2:1467:22498:29121	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	96.970	33
+A01156:794:HLW7CDMXY:2:1467:13847:32737	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1468:5674:28009	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:2:1468:5358:28150	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:2:1469:26323:4335	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.047	86
+A01156:794:HLW7CDMXY:2:1469:26323:4335	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.047	86
+A01156:794:HLW7CDMXY:2:1472:32732:5165	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	36
+A01156:794:HLW7CDMXY:2:1478:9851:30733	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:2:1478:9851:30733	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.489	94
+A01156:794:HLW7CDMXY:2:1481:23854:19601	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.000	100
+A01156:794:HLW7CDMXY:2:1481:23854:19601	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.000	100
+A01156:794:HLW7CDMXY:2:1483:4553:21684	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:1485:22272:22936	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	30
+A01156:794:HLW7CDMXY:2:1485:22272:22936	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1485:22272:22936	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1485:21884:22952	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	30
+A01156:794:HLW7CDMXY:2:1485:21884:22952	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1485:21884:22952	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:1487:29523:17080	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:1487:29523:17080	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:1488:29686:8469	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:1488:29686:8469	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:2103:21169:24471	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2103:30861:28761	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2105:4625:16673	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.885	61
+A01156:794:HLW7CDMXY:2:2108:15664:7827	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:2:2108:15664:7827	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:2:2109:5855:8281	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.917	48
+A01156:794:HLW7CDMXY:2:2110:12120:4413	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2110:12120:4413	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2110:12120:4413	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2110:12120:4413	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2110:12120:4413	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2110:12120:4413	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2110:12120:4413	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2110:15872:36025	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2115:17381:30279	NC_004326.2	NC_004326.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 5	96.970	33
+A01156:794:HLW7CDMXY:2:2116:7988:28823	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:2:2117:18222:9627	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	29
+A01156:794:HLW7CDMXY:2:2123:4716:16924	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	96.970	33
+A01156:794:HLW7CDMXY:2:2124:10502:2738	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	94.595	37
+A01156:794:HLW7CDMXY:2:2126:30996:1752	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.053	76
+A01156:794:HLW7CDMXY:2:2126:30996:1752	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.053	76
+A01156:794:HLW7CDMXY:2:2127:10719:5243	NC_004330.2	NC_004330.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 9	94.118	34
+A01156:794:HLW7CDMXY:2:2127:12409:17127	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:2:2127:12409:17127	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:2:2127:25988:27211	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2132:30264:19930	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2132:30264:19930	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2132:17065:30859	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2135:8847:29277	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.118	85
+A01156:794:HLW7CDMXY:2:2135:8847:29277	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.118	85
+A01156:794:HLW7CDMXY:2:2137:16541:18490	AC_000008.1	AC_000008.1 Human adenovirus 5, complete genome	96.875	32
+A01156:794:HLW7CDMXY:2:2142:8422:22216	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	28
+A01156:794:HLW7CDMXY:2:2144:31421:8970	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	82.292	96
+A01156:794:HLW7CDMXY:2:2147:1877:29105	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	92.308	52
+A01156:794:HLW7CDMXY:2:2148:22489:24032	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:2149:21721:5384	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:2:2149:3405:33849	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	82.292	96
+A01156:794:HLW7CDMXY:2:2151:13503:29731	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2152:31494:26882	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2158:27787:21308	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:2158:27787:21308	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:2160:16441:13526	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.783	92
+A01156:794:HLW7CDMXY:2:2160:24903:13808	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2163:28673:23719	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2170:10321:10097	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:2170:10321:10097	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:2171:19470:16203	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2172:1362:6324	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2173:20292:14904	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	90.000	40
+A01156:794:HLW7CDMXY:2:2173:4463:24126	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.537	67
+A01156:794:HLW7CDMXY:2:2173:4463:24126	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	92.537	67
+A01156:794:HLW7CDMXY:2:2175:21151:20995	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.888	89
+A01156:794:HLW7CDMXY:2:2175:21151:20995	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.888	89
+A01156:794:HLW7CDMXY:2:2177:16306:3114	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:2:2177:16306:3114	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	95.556	45
+A01156:794:HLW7CDMXY:2:2180:30707:7420	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2184:20600:12054	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:2:2186:17146:12023	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2187:10456:31125	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.444	36
+A01156:794:HLW7CDMXY:2:2188:2555:6856	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:2188:2555:6856	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:2201:12997:11694	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2201:12680:12931	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2204:12255:7905	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2204:12707:8406	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2204:24108:24267	NC_004327.3	NC_004327.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 6	100.000	31
+A01156:794:HLW7CDMXY:2:2205:12861:21574	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:2207:7238:5509	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.099	101
+A01156:794:HLW7CDMXY:2:2207:7238:5509	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.099	101
+A01156:794:HLW7CDMXY:2:2213:27064:1673	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2213:27064:1767	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2214:24343:20322	NC_004325.2	NC_004325.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 1	100.000	29
+A01156:794:HLW7CDMXY:2:2214:26558:22654	NC_004325.2	NC_004325.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 1	100.000	29
+A01156:794:HLW7CDMXY:2:2215:18421:25347	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2215:29487:30107	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.103	87
+A01156:794:HLW7CDMXY:2:2215:29487:30107	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.103	87
+A01156:794:HLW7CDMXY:2:2220:5457:17206	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:2221:19524:16736	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2223:29044:6010	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:2:2223:29044:6010	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	89.796	98
+A01156:794:HLW7CDMXY:2:2225:5421:33802	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.789	76
+A01156:794:HLW7CDMXY:2:2225:5421:33802	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.789	76
+A01156:794:HLW7CDMXY:2:2229:23538:6151	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:2230:20618:10614	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.368	76
+A01156:794:HLW7CDMXY:2:2230:20618:10614	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.368	76
+A01156:794:HLW7CDMXY:2:2231:29993:34084	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	100.000	29
+A01156:794:HLW7CDMXY:2:2234:30770:22091	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:2234:30770:22091	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:2234:31150:21934	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:2234:31150:21934	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:2237:14172:4586	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	30
+A01156:794:HLW7CDMXY:2:2237:14172:4586	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	30
+A01156:794:HLW7CDMXY:2:2237:14172:4586	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:2237:14172:4586	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:2237:14172:4586	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:2237:14172:4586	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:2237:14172:4586	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	29
+A01156:794:HLW7CDMXY:2:2242:17445:12258	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:2:2242:17436:12273	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.826	46
+A01156:794:HLW7CDMXY:2:2243:23014:13792	NC_004328.3	NC_004328.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 7	84.211	76
+A01156:794:HLW7CDMXY:2:2245:25400:13291	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.308	39
+A01156:794:HLW7CDMXY:2:2245:25400:13291	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	92.308	39
+A01156:794:HLW7CDMXY:2:2245:5267:19852	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	29
+A01156:794:HLW7CDMXY:2:2249:24017:23359	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60
+A01156:794:HLW7CDMXY:2:2251:15275:6120	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	41
+A01156:794:HLW7CDMXY:2:2251:14326:34695	NC_004318.2	NC_004318.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 4	100.000	28
+A01156:794:HLW7CDMXY:2:2256:3070:33364	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.747	83
+A01156:794:HLW7CDMXY:2:2256:2781:33458	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.747	83
+A01156:794:HLW7CDMXY:2:2258:25030:8015	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:2261:23845:14920	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.970	33
+A01156:794:HLW7CDMXY:2:2261:23845:14920	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:2261:23845:14920	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2261:23845:14920	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2261:24171:14982	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.970	33
+A01156:794:HLW7CDMXY:2:2261:24171:14982	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:2261:24171:14982	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2261:24171:14982	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2261:7871:23703	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:2:2261:7871:23703	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.000	75
+A01156:794:HLW7CDMXY:2:2264:14516:22028	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2264:14353:22592	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2265:7211:15483	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2268:9209:1188	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:2269:16866:11788	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:2269:16866:11819	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:2271:28944:6089	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:2273:32750:6950	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	30
+A01156:794:HLW7CDMXY:2:2273:27317:26162	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2273:15528:33520	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:2273:15528:33520	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.286	70
+A01156:794:HLW7CDMXY:2:2286:18936:4977	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:2286:24551:26005	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	44
+A01156:794:HLW7CDMXY:2:2288:5032:30686	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:2288:5032:30686	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:2288:5032:30686	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.875	32
+A01156:794:HLW7CDMXY:2:2307:27606:4554	NC_004327.3	NC_004327.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 6	100.000	28
+A01156:794:HLW7CDMXY:2:2311:13042:7795	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.429	84
+A01156:794:HLW7CDMXY:2:2311:8142:25989	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2315:26241:21292	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2317:5285:33004	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	83.871	93
+A01156:794:HLW7CDMXY:2:2317:5746:33207	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	83.871	93
+A01156:794:HLW7CDMXY:2:2331:10999:4633	NC_004327.3	NC_004327.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 6	87.500	56
+A01156:794:HLW7CDMXY:2:2341:13765:23766	NC_000521.4	NC_000521.4 Plasmodium falciparum 3D7 genome assembly, chromosome: 3	89.130	46
+A01156:794:HLW7CDMXY:2:2341:13584:25676	NC_000521.4	NC_000521.4 Plasmodium falciparum 3D7 genome assembly, chromosome: 3	89.362	47
+A01156:794:HLW7CDMXY:2:2344:30951:19366	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2346:17390:2174	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.149	101
+A01156:794:HLW7CDMXY:2:2346:17390:2174	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.149	101
+A01156:794:HLW7CDMXY:2:2347:27597:28213	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.890	73
+A01156:794:HLW7CDMXY:2:2347:27597:28213	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	95.890	73
+A01156:794:HLW7CDMXY:2:2348:13114:20854	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	40
+A01156:794:HLW7CDMXY:2:2349:3016:13604	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2349:3016:13604	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2349:3016:13604	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2349:3016:13604	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2349:3016:13604	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2349:3016:13604	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2349:3016:13604	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2349:3323:15640	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	36
+A01156:794:HLW7CDMXY:2:2354:13693:35133	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.437	103
+A01156:794:HLW7CDMXY:2:2354:13693:35133	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.437	103
+A01156:794:HLW7CDMXY:2:2359:1136:1736	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.148	54
+A01156:794:HLW7CDMXY:2:2361:13060:21512	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	89.796	98
+A01156:794:HLW7CDMXY:2:2364:21242:18991	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	87.500	64
+A01156:794:HLW7CDMXY:2:2364:15474:34773	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:2364:15474:34773	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:2366:28212:14622	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2371:4896:32925	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:2371:4896:32925	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:2376:27001:10989	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2376:27001:10989	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2376:26937:11099	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2376:26937:11099	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2376:27100:11945	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2376:27100:11945	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	91.579	95
+A01156:794:HLW7CDMXY:2:2376:9995:21559	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2381:9444:4758	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.375	96
+A01156:794:HLW7CDMXY:2:2383:15329:14606	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2383:15338:14841	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2386:32551:13902	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:2386:32551:13902	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:2386:32000:15013	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:2386:32000:15013	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:2387:13386:10989	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.846	65
+A01156:794:HLW7CDMXY:2:2387:13386:10989	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.846	65
+A01156:794:HLW7CDMXY:2:2401:26675:5259	NC_037281.1	NC_037281.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 10	100.000	28
+A01156:794:HLW7CDMXY:2:2401:30834:22388	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.375	96
+A01156:794:HLW7CDMXY:2:2401:30834:22388	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.375	96
+A01156:794:HLW7CDMXY:2:2407:9453:34585	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.143	35
+A01156:794:HLW7CDMXY:2:2407:9453:34585	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	97.143	35
+A01156:794:HLW7CDMXY:2:2409:18584:15139	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	96.970	33
+A01156:794:HLW7CDMXY:2:2410:13693:5384	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	97.436	39
+A01156:794:HLW7CDMXY:2:2411:25635:28479	NC_004326.2	NC_004326.2 Plasmodium falciparum 3D7 genome assembly, chromosome: 5	100.000	31
+A01156:794:HLW7CDMXY:2:2412:23719:34867	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	94.118	51
+A01156:794:HLW7CDMXY:2:2413:7681:24784	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:2413:7681:24784	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.923	65
+A01156:794:HLW7CDMXY:2:2413:4571:26850	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2413:20781:35164	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:2413:20781:35164	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:2414:5475:23218	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:2414:5475:23218	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	96.364	55
+A01156:794:HLW7CDMXY:2:2420:32461:13056	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.154	52
+A01156:794:HLW7CDMXY:2:2420:32759:12978	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	96.154	52
+A01156:794:HLW7CDMXY:2:2426:30165:20008	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2426:29930:19946	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2428:18168:21308	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	41
+A01156:794:HLW7CDMXY:2:2429:19542:24471	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	44
+A01156:794:HLW7CDMXY:2:2429:14145:35164	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.101	69
+A01156:794:HLW7CDMXY:2:2429:14145:35164	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.101	69
+A01156:794:HLW7CDMXY:2:2430:17029:34209	NC_004329.3	NC_004329.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 8	100.000	30
+A01156:794:HLW7CDMXY:2:2433:28763:18897	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:2433:28763:18897	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:2433:28863:19257	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:2433:28863:19257	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	90.909	77
+A01156:794:HLW7CDMXY:2:2433:17228:27101	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.476	63
+A01156:794:HLW7CDMXY:2:2433:17228:27101	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	90.476	63
+A01156:794:HLW7CDMXY:2:2434:3143:9471	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	54
+A01156:794:HLW7CDMXY:2:2435:13693:4820	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.735	98
+A01156:794:HLW7CDMXY:2:2435:13693:4820	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	86.735	98
+A01156:794:HLW7CDMXY:2:2435:30165:26083	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	100.000	28
+A01156:794:HLW7CDMXY:2:2436:8883:34569	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	98.077	52
+A01156:794:HLW7CDMXY:2:2439:15890:12947	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:2:2439:15890:12947	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:2:2439:15944:12821	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:2:2439:15944:12821	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	94.737	57
+A01156:794:HLW7CDMXY:2:2440:21106:28432	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:2440:21106:28432	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:2441:15465:29997	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2443:30264:5494	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:2:2443:30264:5494	NC_036769.1	NC_036769.1 Plasmodium falciparum strain 3D7, apicoplast	89.610	77
+A01156:794:HLW7CDMXY:2:2443:20880:25848	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2444:29595:13166	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	81.188	101
+A01156:794:HLW7CDMXY:2:2448:19859:15154	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	84.783	92
+A01156:794:HLW7CDMXY:2:2448:1868:28870	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.615	104
+A01156:794:HLW7CDMXY:2:2448:1868:28870	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	84.615	104
+A01156:794:HLW7CDMXY:2:2449:16080:12712	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	44
+A01156:794:HLW7CDMXY:2:2452:32434:33113	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	82.292	96
+A01156:794:HLW7CDMXY:2:2453:6560:13604	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:2453:6560:13604	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	93.056	72
+A01156:794:HLW7CDMXY:2:2453:15320:17660	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:2453:15320:17660	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:2453:14299:18270	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:2453:14299:18270	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	97.059	68
+A01156:794:HLW7CDMXY:2:2455:25400:1673	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.119	101
+A01156:794:HLW7CDMXY:2:2455:25400:1673	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	88.119	101
+A01156:794:HLW7CDMXY:2:2458:29324:1517	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	31
+A01156:794:HLW7CDMXY:2:2458:19949:18317	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	29
+A01156:794:HLW7CDMXY:2:2458:19949:18317	NC_037282.1	NC_037282.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 11	100.000	28
+A01156:794:HLW7CDMXY:2:2460:14841:8750	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	36
+A01156:794:HLW7CDMXY:2:2462:7789:3176	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	40
+A01156:794:HLW7CDMXY:2:2466:24062:11193	NC_037283.1	NC_037283.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 14	100.000	28
+A01156:794:HLW7CDMXY:2:2471:18864:14058	NC_037284.1	NC_037284.1 Plasmodium falciparum 3D7 genome assembly, chromosome: 12	94.118	34
+A01156:794:HLW7CDMXY:2:2474:2962:7467	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.577	104
+A01156:794:HLW7CDMXY:2:2474:2962:7467	NC_000117.1	NC_000117.1 Chlamydia trachomatis D/UW-3/CX chromosome, complete genome	85.577	104
+A01156:794:HLW7CDMXY:2:2482:6623:13589	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	86.905	84
+A01156:794:HLW7CDMXY:2:2485:9941:10723	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	100.000	29
+A01156:794:HLW7CDMXY:2:2487:18747:19586	NC_004331.3	NC_004331.3 Plasmodium falciparum 3D7 genome assembly, chromosome: 13	90.000	60

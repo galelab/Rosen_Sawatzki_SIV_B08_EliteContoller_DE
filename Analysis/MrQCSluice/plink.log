@@ -1,0 +1,33 @@
+PLINK v1.90b7 64-bit (16 Jan 2023)
+Options in effect:
+  --allow-extra-chr
+  --distance square 1-ibs
+  --double-id
+  --memory 16268
+  --threads 6
+  --vcf tmp.fifo
+
+Hostname: salk.galelab.org
+Working directory: /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/SG_Watkins_07_WB/SawatzkiAnalysis_2/MrQCSluice
+Start time: Fri Jan 26 13:38:38 2024
+
+Random number seed: 1706305118
+96483 MB RAM detected; reserving 16268 MB for main workspace.
+--vcf: plink-temporary.bed + plink-temporary.bim + plink-temporary.fam written.
+1202987 variants loaded from .bim file.
+208 people (0 males, 0 females, 208 ambiguous) loaded from .fam.
+Ambiguous sex IDs written to plink.nosex .
+Using up to 6 threads (change this with --threads).
+Before main variant filters, 208 founders and 0 nonfounders present.
+Calculating allele frequencies... done.
+Warning: Nonmissing nonmale Y chromosome genotype(s) present; many commands
+treat these as missing.
+Total genotyping rate is 0.108422.
+1202987 variants and 208 people pass filters and QC.
+Note: No phenotypes present.
+Excluding 19140 variants on non-autosomes from distance matrix calc.
+Distance matrix calculation complete.
+IDs written to plink.mdist.id .
+Distances (proportions) written to plink.mdist .
+
+End time: Fri Jan 26 13:44:40 2024

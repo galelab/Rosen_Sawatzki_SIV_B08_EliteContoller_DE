@@ -1,0 +1,30 @@
+Trimgalore OK
+FASTQC OK
+rRNA filter OK
+rRNA summary OK
+	Deleted SAM output after mapping because they took up 5.5TB
+FASTQC OK
+Viral check OK
+	Checked 7 fastqs for evidence of SIV and HIV (challenge);
+		VSV, RRV and adenovirus type 5 (vaccine vectors);
+		Malaria, ZIKV, YFV, Influenza (matrix), DENV, Measles and Chlamydia (in notes, possible challenges?)
+	Libraries checked cover all pathogens and post-challenge time points
+		Two false positive hits (<40bp) for HIV and adenovirus, respectively
+		Possible plasmodium and chlamydia hits in all samples, but still at very low overall numbers and many are <40bp (uniques):
+		G209_Watkins07_AVR_r08014_B_D168_R1 - PF: 1038, CT: 431
+		G225_Watkins07_AVR_r08014_B_D196_R2 - PF: 1119, CT: 390
+		G228_Watkins07_AVR_r17017_B_D196_R1 - PF: 789, CT: 513
+		G273_Watkins07_AVR_r08014_B_D14-SIV_R2 - PF: 998, CT: 473
+		G274_Watkins07_Unvax_r15058_B_D14-SIV_R1 - PF: 586, CT: 314
+		G354_Watkins07_Unvax_rh2494_B_D3-SIV_R2 - PF: 930, CT: 260
+		G357_Watkins07_Unvax_rh2494_B_D14-SIV_R1 - PF: 505, CT: 200
+	Cross checked and we can assume false positives - tested high quality hits were normal bacteria
+STAR OK
+	Align with sorting for MrQCSluice
+Check STAR errors OK
+	Found 3 initial errors (G275-277) - files looked ok and might have been a slurm re-run mix up, but deleted all files and re-mapped
+STAR summary OK
+MrQCSluice OK
+	No suspected sample swaps
+	Delete vcfs to clean up
+Count matrix OK

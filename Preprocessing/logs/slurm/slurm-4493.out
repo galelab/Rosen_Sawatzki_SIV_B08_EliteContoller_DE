@@ -1,0 +1,35 @@
+
+                        Quality-/Adapter-/RRBS-/Speciality-Trimming
+                                [powered by Cutadapt]
+                                  version 0.6.10
+
+                               Last update: 02 02 2023
+
+Number samples = 5 R1 files, should be 5
+Number samples = 5 R2 files, should be 5
+Counter variable 0
+Trim Galore running...
+../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz
+../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz
+../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz
+../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz
+../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001.fastq.gz
+Trim Galore running...
+../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz
+../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001.fastq.gz
+pigz 2.6
+pigz 2.6
+pigz 2.6
+pigz 2.6
+pigz 2.6
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0
+igzip command line interface 2.30.0

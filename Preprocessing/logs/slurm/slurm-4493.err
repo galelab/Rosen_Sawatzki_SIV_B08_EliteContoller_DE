@@ -1,0 +1,1895 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Path to Cutadapt set as: 'cutadapt' (default)
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Path to Cutadapt set as: 'cutadapt' (default)
+Path to Cutadapt set as: 'cutadapt' (default)
+Path to Cutadapt set as: 'cutadapt' (default)
+Path to Cutadapt set as: 'cutadapt' (default)
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+Cutadapt seems to be working fine (tested command 'cutadapt --version')
+Cutadapt version: 4.4
+Could not detect version of Python used by Cutadapt from the first line of Cutadapt (but found this: >>>#!/bin/sh<<<)
+Letting the (modified) Cutadapt deal with the Python version instead
+Parallel gzip (pigz) detected. Proceeding with multicore (de)compression using 4 cores
+
+Cutadapt version: 4.4
+Cutadapt version: 4.4
+Could not detect version of Python used by Cutadapt from the first line of Cutadapt (but found this: >>>#!/bin/sh<<<)
+Letting the (modified) Cutadapt deal with the Python version instead
+Could not detect version of Python used by Cutadapt from the first line of Cutadapt (but found this: >>>#!/bin/sh<<<)
+Letting the (modified) Cutadapt deal with the Python version instead
+Cutadapt version: 4.4
+Could not detect version of Python used by Cutadapt from the first line of Cutadapt (but found this: >>>#!/bin/sh<<<)
+Letting the (modified) Cutadapt deal with the Python version instead
+Cutadapt version: 4.4
+Parallel gzip (pigz) detected. Proceeding with multicore (de)compression using 4 cores
+
+Parallel gzip (pigz) detected. Proceeding with multicore (de)compression using 4 cores
+
+Could not detect version of Python used by Cutadapt from the first line of Cutadapt (but found this: >>>#!/bin/sh<<<)
+Letting the (modified) Cutadapt deal with the Python version instead
+Parallel gzip (pigz) detected. Proceeding with multicore (de)compression using 4 cores
+
+Parallel gzip (pigz) detected. Proceeding with multicore (de)compression using 4 cores
+
+igzip detected. Using igzip for decompressing
+
+igzip detected. Using igzip for decompressing
+
+igzip detected. Using igzip for decompressing
+
+igzip detected. Using igzip for decompressing
+
+igzip detected. Using igzip for decompressing
+
+Output will be written into the directory: /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/
+Output will be written into the directory: /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/
+Output will be written into the directory: /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/
+Output will be written into the directory: /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/
+Output will be written into the directory: /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/
+
+
+AUTO-DETECTING ADAPTER TYPE
+===========================
+Attempting to auto-detect adapter type from the first 1 million sequences of the first file (>> ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz <<)
+
+
+
+AUTO-DETECTING ADAPTER TYPE
+===========================
+Attempting to auto-detect adapter type from the first 1 million sequences of the first file (>> ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz <<)
+
+
+
+AUTO-DETECTING ADAPTER TYPE
+===========================
+Attempting to auto-detect adapter type from the first 1 million sequences of the first file (>> ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz <<)
+
+
+
+AUTO-DETECTING ADAPTER TYPE
+===========================
+Attempting to auto-detect adapter type from the first 1 million sequences of the first file (>> ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz <<)
+
+
+
+AUTO-DETECTING ADAPTER TYPE
+===========================
+Attempting to auto-detect adapter type from the first 1 million sequences of the first file (>> ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz <<)
+
+Found perfect matches for the following adapter sequences:
+Adapter type	Count	Sequence	Sequences analysed	Percentage
+Illumina	13655	AGATCGGAAGAGC	1000000	1.37
+smallRNA	10	TGGAATTCTCGG	1000000	0.00
+Nextera	1	CTGTCTCTTATA	1000000	0.00
+Using Illumina adapter for trimming (count: 13655). Second best hit was smallRNA (count: 10)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j 4
+Writing final adapter and quality trimmed output to G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz <<< 
+Found perfect matches for the following adapter sequences:
+Adapter type	Count	Sequence	Sequences analysed	Percentage
+Illumina	8599	AGATCGGAAGAGC	1000000	0.86
+Nextera	4	CTGTCTCTTATA	1000000	0.00
+smallRNA	1	TGGAATTCTCGG	1000000	0.00
+Using Illumina adapter for trimming (count: 8599). Second best hit was Nextera (count: 4)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j 4
+Writing final adapter and quality trimmed output to G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz <<< 
+Found perfect matches for the following adapter sequences:
+Adapter type	Count	Sequence	Sequences analysed	Percentage
+Illumina	7076	AGATCGGAAGAGC	1000000	0.71
+smallRNA	3	TGGAATTCTCGG	1000000	0.00
+Nextera	1	CTGTCTCTTATA	1000000	0.00
+Using Illumina adapter for trimming (count: 7076). Second best hit was smallRNA (count: 3)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j 4
+Writing final adapter and quality trimmed output to G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz <<< 
+Found perfect matches for the following adapter sequences:
+Adapter type	Count	Sequence	Sequences analysed	Percentage
+Illumina	18750	AGATCGGAAGAGC	1000000	1.88
+Nextera	7	CTGTCTCTTATA	1000000	0.00
+smallRNA	4	TGGAATTCTCGG	1000000	0.00
+Using Illumina adapter for trimming (count: 18750). Second best hit was Nextera (count: 7)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j 4
+Writing final adapter and quality trimmed output to G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz <<< 
+Found perfect matches for the following adapter sequences:
+Adapter type	Count	Sequence	Sequences analysed	Percentage
+Illumina	4229	AGATCGGAAGAGC	1000000	0.42
+Nextera	5	CTGTCTCTTATA	1000000	0.00
+smallRNA	4	TGGAATTCTCGG	1000000	0.00
+Using Illumina adapter for trimming (count: 4229). Second best hit was Nextera (count: 5)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j 4
+Writing final adapter and quality trimmed output to G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz <<< 
+10000000 sequences processed
+10000000 sequences processed
+10000000 sequences processed
+10000000 sequences processed
+10000000 sequences processed
+20000000 sequences processed
+20000000 sequences processed
+20000000 sequences processed
+20000000 sequences processed
+20000000 sequences processed
+30000000 sequences processed
+30000000 sequences processed
+30000000 sequences processed
+30000000 sequences processed
+30000000 sequences processed
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 285.587 s (7.953 µs/read; 7.54 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              35,908,896
+Reads with adapters:                15,765,737 (43.9%)
+Reads written (passing filters):    35,908,896 (100.0%)
+
+Total basepairs processed: 3,608,997,599 bp
+Quality-trimmed:               2,554,566 bp (0.1%)
+Total written (filtered):  3,579,919,347 bp (99.2%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 15765737 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 28.6%
+  C: 34.6%
+  G: 19.3%
+  T: 17.5%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	10904104	8977224.0	0	10904104
+2	3422137	2244306.0	0	3422137
+3	899375	561076.5	0	899375
+4	241242	140269.1	0	241242
+5	11991	35067.3	0	11991
+6	23386	8766.8	0	23386
+7	17907	2191.7	0	17907
+8	16949	547.9	0	16949
+9	16919	137.0	0	16395 524
+10	15657	34.2	1	14322 1335
+11	14701	8.6	1	13833 868
+12	24806	2.1	1	24222 584
+13	271	0.5	1	48 223
+14	21638	0.5	1	21194 444
+15	313	0.5	1	134 179
+16	19626	0.5	1	19181 445
+17	649	0.5	1	482 167
+18	9473	0.5	1	9116 357
+19	28070	0.5	1	27648 422
+20	80	0.5	1	39 41
+21	86	0.5	1	24 62
+22	174	0.5	1	91 83
+23	6271	0.5	1	6043 228
+24	15342	0.5	1	14966 376
+25	340	0.5	1	212 128
+26	4431	0.5	1	4281 150
+27	4053	0.5	1	3945 108
+28	201	0.5	1	132 69
+29	4106	0.5	1	3936 170
+30	3668	0.5	1	3551 117
+31	5913	0.5	1	5784 129
+32	272	0.5	1	183 89
+33	7111	0.5	1	6958 153
+34	203	0.5	1	144 59
+35	2035	0.5	1	1980 55
+36	347	0.5	1	254 93
+37	6323	0.5	1	6204 119
+38	107	0.5	1	70 37
+39	79	0.5	1	26 53
+40	715	0.5	1	677 38
+41	694	0.5	1	649 45
+42	1199	0.5	1	1138 61
+43	1150	0.5	1	1101 49
+44	942	0.5	1	899 43
+45	1076	0.5	1	1003 73
+46	1932	0.5	1	1886 46
+47	607	0.5	1	580 27
+48	178	0.5	1	153 25
+49	61	0.5	1	33 28
+50	752	0.5	1	708 44
+51	482	0.5	1	457 25
+52	353	0.5	1	315 38
+53	591	0.5	1	532 59
+54	596	0.5	1	556 40
+55	248	0.5	1	200 48
+56	57	0.5	1	37 20
+57	619	0.5	1	583 36
+58	428	0.5	1	393 35
+59	73	0.5	1	52 21
+60	130	0.5	1	71 59
+61	481	0.5	1	431 50
+62	40	0.5	1	8 32
+63	32	0.5	1	12 20
+64	192	0.5	1	175 17
+65	33	0.5	1	17 16
+66	33	0.5	1	5 28
+67	82	0.5	1	50 32
+68	192	0.5	1	156 36
+69	64	0.5	1	26 38
+70	116	0.5	1	78 38
+71	69	0.5	1	36 33
+72	65	0.5	1	15 50
+73	26	0.5	1	4 22
+74	31	0.5	1	10 21
+75	34	0.5	1	13 21
+76	42	0.5	1	17 25
+77	35	0.5	1	5 30
+78	46	0.5	1	10 36
+79	42	0.5	1	23 19
+80	54	0.5	1	11 43
+81	41	0.5	1	9 32
+82	29	0.5	1	3 26
+83	26	0.5	1	0 26
+84	51	0.5	1	3 48
+85	20	0.5	1	2 18
+86	30	0.5	1	1 29
+87	32	0.5	1	2 30
+88	25	0.5	1	2 23
+89	28	0.5	1	3 25
+90	38	0.5	1	1 37
+91	44	0.5	1	1 43
+92	42	0.5	1	2 40
+93	34	0.5	1	3 31
+94	14	0.5	1	0 14
+95	14	0.5	1	1 13
+96	9	0.5	1	2 7
+97	17	0.5	1	1 16
+98	67	0.5	1	2 65
+99	10	0.5	1	1 9
+100	8	0.5	1	0 8
+101	210	0.5	1	1 209
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001.fastq.gz
+=============================================
+35908896 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j -j 4
+Writing final adapter and quality trimmed output to G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001.fastq.gz <<< 
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 300.636 s (7.761 µs/read; 7.73 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              38,735,192
+Reads with adapters:                17,272,779 (44.6%)
+Reads written (passing filters):    38,735,192 (100.0%)
+
+Total basepairs processed: 3,892,929,565 bp
+Quality-trimmed:               3,154,118 bp (0.1%)
+Total written (filtered):  3,837,347,086 bp (98.6%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 17272779 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 26.9%
+  C: 35.2%
+  G: 20.9%
+  T: 17.0%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	11263198	9683798.0	0	11263198
+2	3665496	2420949.5	0	3665496
+3	967886	605237.4	0	967886
+4	305806	151309.3	0	305806
+5	13785	37827.3	0	13785
+6	54939	9456.8	0	54939
+7	41842	2364.2	0	41842
+8	38906	591.1	0	38906
+9	35939	147.8	0	35400 539
+10	33900	36.9	1	32325 1575
+11	34115	9.2	1	32546 1569
+12	60979	2.3	1	59675 1304
+13	413	0.6	1	103 310
+14	56748	0.6	1	55520 1228
+15	579	0.6	1	294 285
+16	52790	0.6	1	51572 1218
+17	1814	0.6	1	1388 426
+18	27741	0.6	1	26795 946
+19	89608	0.6	1	88084 1524
+20	256	0.6	1	141 115
+21	120	0.6	1	64 56
+22	342	0.6	1	209 133
+23	21681	0.6	1	20967 714
+24	56040	0.6	1	54774 1266
+25	922	0.6	1	672 250
+26	16643	0.6	1	16237 406
+27	16482	0.6	1	16123 359
+28	660	0.6	1	514 146
+29	15843	0.6	1	15326 517
+30	15276	0.6	1	14895 381
+31	26208	0.6	1	25740 468
+32	1956	0.6	1	1797 159
+33	23007	0.6	1	22555 452
+34	11303	0.6	1	11023 280
+35	10528	0.6	1	10272 256
+36	2712	0.6	1	2532 180
+37	9863	0.6	1	9579 284
+38	17224	0.6	1	16984 240
+39	684	0.6	1	564 120
+40	16633	0.6	1	16303 330
+41	573	0.6	1	448 125
+42	8119	0.6	1	7916 203
+43	6746	0.6	1	6589 157
+44	7357	0.6	1	7164 193
+45	8422	0.6	1	8119 303
+46	16367	0.6	1	16040 327
+47	8275	0.6	1	8099 176
+48	1707	0.6	1	1630 77
+49	493	0.6	1	385 108
+50	14282	0.6	1	14017 265
+51	5518	0.6	1	5351 167
+52	3558	0.6	1	3454 104
+53	12638	0.6	1	12294 344
+54	13270	0.6	1	12983 287
+55	3521	0.6	1	3417 104
+56	3738	0.6	1	3582 156
+57	28248	0.6	1	27859 389
+58	17671	0.6	1	17360 311
+59	3075	0.6	1	2990 85
+60	2036	0.6	1	1898 138
+61	29268	0.6	1	28880 388
+62	689	0.6	1	628 61
+63	791	0.6	1	706 85
+64	12848	0.6	1	12686 162
+65	1457	0.6	1	1409 48
+66	571	0.6	1	522 49
+67	3979	0.6	1	3873 106
+68	12921	0.6	1	12759 162
+69	1869	0.6	1	1766 103
+70	8252	0.6	1	8122 130
+71	4312	0.6	1	4187 125
+72	1555	0.6	1	1480 75
+73	281	0.6	1	245 36
+74	934	0.6	1	898 36
+75	1357	0.6	1	1293 64
+76	1281	0.6	1	1249 32
+77	783	0.6	1	747 36
+78	820	0.6	1	778 42
+79	2039	0.6	1	1977 62
+80	1917	0.6	1	1864 53
+81	571	0.6	1	536 35
+82	638	0.6	1	589 49
+83	122	0.6	1	97 25
+84	97	0.6	1	59 38
+85	30	0.6	1	8 22
+86	34	0.6	1	11 23
+87	29	0.6	1	2 27
+88	39	0.6	1	1 38
+89	36	0.6	1	5 31
+90	45	0.6	1	3 42
+91	40	0.6	1	2 38
+92	50	0.6	1	4 46
+93	36	0.6	1	2 34
+94	17	0.6	1	0 17
+95	22	0.6	1	1 21
+96	27	0.6	1	3 24
+97	19	0.6	1	0 19
+98	62	0.6	1	1 61
+99	26	0.6	1	0 26
+100	54	0.6	1	0 54
+101	6380	0.6	1	24 6356
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001.fastq.gz
+=============================================
+38735192 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j -j 4
+Writing final adapter and quality trimmed output to G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001.fastq.gz <<< 
+40000000 sequences processed
+40000000 sequences processed
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 319.678 s (8.011 µs/read; 7.49 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              39,903,934
+Reads with adapters:                17,137,128 (42.9%)
+Reads written (passing filters):    39,903,934 (100.0%)
+
+Total basepairs processed: 4,010,227,754 bp
+Quality-trimmed:               3,027,071 bp (0.1%)
+Total written (filtered):  3,974,031,043 bp (99.1%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 17137128 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 26.9%
+  C: 36.0%
+  G: 20.6%
+  T: 16.5%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	11529642	9975983.5	0	11529642
+2	3822501	2493995.9	0	3822501
+3	997380	623499.0	0	997380
+4	278099	155874.7	0	278099
+5	13576	38968.7	0	13576
+6	33246	9742.2	0	33246
+7	26607	2435.5	0	26607
+8	26166	608.9	0	26166
+9	24884	152.2	0	24290 594
+10	23832	38.1	1	22002 1830
+11	23443	9.5	1	21758 1685
+12	39637	2.4	1	38288 1349
+13	620	0.6	1	151 469
+14	35629	0.6	1	34433 1196
+15	757	0.6	1	305 452
+16	32628	0.6	1	31487 1141
+17	1334	0.6	1	918 416
+18	16537	0.6	1	15492 1045
+19	48954	0.6	1	47603 1351
+20	166	0.6	1	83 83
+21	143	0.6	1	79 64
+22	370	0.6	1	193 177
+23	11570	0.6	1	10910 660
+24	27988	0.6	1	27047 941
+25	609	0.6	1	396 213
+26	8538	0.6	1	8177 361
+27	7874	0.6	1	7614 260
+28	504	0.6	1	353 151
+29	7851	0.6	1	7469 382
+30	7343	0.6	1	6977 366
+31	11612	0.6	1	11240 372
+32	746	0.6	1	588 158
+33	10363	0.6	1	9996 367
+34	4680	0.6	1	4511 169
+35	364	0.6	1	249 115
+36	4769	0.6	1	4577 192
+37	3990	0.6	1	3833 157
+38	4039	0.6	1	3876 163
+39	3714	0.6	1	3563 151
+40	3551	0.6	1	3400 151
+41	3106	0.6	1	2949 157
+42	3009	0.6	1	2856 153
+43	4944	0.6	1	4779 165
+44	251	0.6	1	183 68
+45	2596	0.6	1	2450 146
+46	4645	0.6	1	4486 159
+47	1816	0.6	1	1712 104
+48	506	0.6	1	455 51
+49	154	0.6	1	94 60
+50	2141	0.6	1	2049 92
+51	1406	0.6	1	1345 61
+52	882	0.6	1	825 57
+53	1567	0.6	1	1469 98
+54	1764	0.6	1	1673 91
+55	539	0.6	1	496 43
+56	196	0.6	1	152 44
+57	1834	0.6	1	1778 56
+58	1241	0.6	1	1182 59
+59	225	0.6	1	198 27
+60	260	0.6	1	217 43
+61	1108	0.6	1	1056 52
+62	55	0.6	1	19 36
+63	78	0.6	1	54 24
+64	616	0.6	1	596 20
+65	79	0.6	1	56 23
+66	52	0.6	1	35 17
+67	210	0.6	1	179 31
+68	603	0.6	1	564 39
+69	127	0.6	1	98 29
+70	276	0.6	1	246 30
+71	130	0.6	1	78 52
+72	90	0.6	1	41 49
+73	29	0.6	1	14 15
+74	59	0.6	1	45 14
+75	76	0.6	1	57 19
+76	75	0.6	1	45 30
+77	61	0.6	1	31 30
+78	53	0.6	1	18 35
+79	80	0.6	1	64 16
+80	69	0.6	1	42 27
+81	35	0.6	1	16 19
+82	22	0.6	1	6 16
+83	34	0.6	1	5 29
+84	50	0.6	1	9 41
+85	21	0.6	1	4 17
+86	20	0.6	1	3 17
+87	33	0.6	1	1 32
+88	27	0.6	1	7 20
+89	11	0.6	1	7 4
+90	25	0.6	1	3 22
+91	29	0.6	1	0 29
+92	49	0.6	1	1 48
+93	32	0.6	1	1 31
+94	11	0.6	1	0 11
+95	20	0.6	1	2 18
+96	25	0.6	1	0 25
+97	18	0.6	1	0 18
+98	75	0.6	1	1 74
+99	21	0.6	1	0 21
+100	26	0.6	1	0 26
+101	3280	0.6	1	1 3279
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001.fastq.gz
+=============================================
+39903934 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j -j 4
+Writing final adapter and quality trimmed output to G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001.fastq.gz <<< 
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 332.140 s (7.873 µs/read; 7.62 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              42,185,434
+Reads with adapters:                18,435,343 (43.7%)
+Reads written (passing filters):    42,185,434 (100.0%)
+
+Total basepairs processed: 4,239,588,904 bp
+Quality-trimmed:               3,251,392 bp (0.1%)
+Total written (filtered):  4,198,881,027 bp (99.0%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 18435343 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 27.4%
+  C: 35.4%
+  G: 20.2%
+  T: 16.9%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	12379584	10546358.5	0	12379584
+2	4030659	2636589.6	0	4030659
+3	1066220	659147.4	0	1066220
+4	307855	164786.9	0	307855
+5	14762	41196.7	0	14762
+6	42043	10299.2	0	42043
+7	34128	2574.8	0	34128
+8	33457	643.7	0	33457
+9	32602	160.9	0	32001 601
+10	30228	40.2	1	28361 1867
+11	30074	10.1	1	28342 1732
+12	51607	2.5	1	50061 1546
+13	442	0.6	1	170 272
+14	46546	0.6	1	44941 1605
+15	973	0.6	1	698 275
+16	42003	0.6	1	40714 1289
+17	1431	0.6	1	1090 341
+18	20864	0.6	1	19960 904
+19	64156	0.6	1	62439 1717
+20	236	0.6	1	143 93
+21	145	0.6	1	84 61
+22	303	0.6	1	193 110
+23	14760	0.6	1	14113 647
+24	37313	0.6	1	36136 1177
+25	681	0.6	1	474 207
+26	10990	0.6	1	10606 384
+27	10151	0.6	1	9896 255
+28	348	0.6	1	252 96
+29	10187	0.6	1	9734 453
+30	9218	0.6	1	8913 305
+31	15353	0.6	1	14989 364
+32	276	0.6	1	198 78
+33	13659	0.6	1	13214 445
+34	722	0.6	1	563 159
+35	11581	0.6	1	11238 343
+36	10350	0.6	1	10055 295
+37	114	0.6	1	55 59
+38	232	0.6	1	172 60
+39	4952	0.6	1	4731 221
+40	4193	0.6	1	4060 133
+41	4230	0.6	1	4046 184
+42	3672	0.6	1	3525 147
+43	5826	0.6	1	5661 165
+44	278	0.6	1	241 37
+45	3175	0.6	1	2997 178
+46	5624	0.6	1	5492 132
+47	2308	0.6	1	2240 68
+48	596	0.6	1	561 35
+49	129	0.6	1	85 44
+50	2409	0.6	1	2314 95
+51	1707	0.6	1	1648 59
+52	1171	0.6	1	1107 64
+53	1801	0.6	1	1717 84
+54	2116	0.6	1	2013 103
+55	765	0.6	1	703 62
+56	213	0.6	1	175 38
+57	1795	0.6	1	1729 66
+58	1797	0.6	1	1712 85
+59	275	0.6	1	248 27
+60	317	0.6	1	274 43
+61	1391	0.6	1	1312 79
+62	77	0.6	1	35 42
+63	70	0.6	1	46 24
+64	722	0.6	1	700 22
+65	93	0.6	1	69 24
+66	47	0.6	1	32 15
+67	221	0.6	1	199 22
+68	624	0.6	1	585 39
+69	198	0.6	1	150 48
+70	361	0.6	1	327 34
+71	169	0.6	1	109 60
+72	92	0.6	1	48 44
+73	30	0.6	1	9 21
+74	66	0.6	1	46 20
+75	86	0.6	1	63 23
+76	92	0.6	1	51 41
+77	71	0.6	1	41 30
+78	64	0.6	1	37 27
+79	107	0.6	1	69 38
+80	95	0.6	1	60 35
+81	72	0.6	1	32 40
+82	30	0.6	1	7 23
+83	34	0.6	1	7 27
+84	43	0.6	1	6 37
+85	32	0.6	1	3 29
+86	25	0.6	1	3 22
+87	39	0.6	1	2 37
+88	30	0.6	1	2 28
+89	25	0.6	1	1 24
+90	52	0.6	1	2 50
+91	35	0.6	1	1 34
+92	44	0.6	1	1 43
+93	25	0.6	1	1 24
+94	20	0.6	1	0 20
+95	19	0.6	1	1 18
+96	26	0.6	1	2 24
+97	17	0.6	1	0 17
+98	63	0.6	1	1 62
+99	18	0.6	1	3 15
+100	47	0.6	1	0 47
+101	4369	0.6	1	1 4368
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001.fastq.gz
+=============================================
+42185434 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j -j 4
+Writing final adapter and quality trimmed output to G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001.fastq.gz <<< 
+10000000 sequences processed
+10000000 sequences processed
+50000000 sequences processed
+10000000 sequences processed
+10000000 sequences processed
+20000000 sequences processed
+20000000 sequences processed
+60000000 sequences processed
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 472.593 s (7.810 µs/read; 7.68 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              60,510,870
+Reads with adapters:                26,887,764 (44.4%)
+Reads written (passing filters):    60,510,870 (100.0%)
+
+Total basepairs processed: 6,081,280,340 bp
+Quality-trimmed:               3,544,709 bp (0.1%)
+Total written (filtered):  6,013,985,560 bp (98.9%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 26887764 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 26.9%
+  C: 35.4%
+  G: 20.6%
+  T: 17.0%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	17676943	15127717.5	0	17676943
+2	5777613	3781929.4	0	5777613
+3	1526028	945482.3	0	1526028
+4	486324	236370.6	0	486324
+5	20703	59092.6	0	20703
+6	81184	14773.2	0	81184
+7	70540	3693.3	0	70540
+8	68352	923.3	0	68352
+9	67794	230.8	0	66777 1017
+10	63547	57.7	1	60681 2866
+11	61834	14.4	1	59131 2703
+12	109725	3.6	1	107456 2269
+13	1552	0.9	1	752 800
+14	101588	0.9	1	99496 2092
+15	1703	0.9	1	1043 660
+16	93096	0.9	1	91141 1955
+17	2557	0.9	1	1819 738
+18	47841	0.9	1	46085 1756
+19	144827	0.9	1	142362 2465
+20	421	0.9	1	240 181
+21	234	0.9	1	122 112
+22	737	0.9	1	495 242
+23	33636	0.9	1	32504 1132
+24	87633	0.9	1	85904 1729
+25	1348	0.9	1	944 404
+26	26573	0.9	1	25912 661
+27	24496	0.9	1	24013 483
+28	806	0.9	1	554 252
+29	23723	0.9	1	23008 715
+30	22547	0.9	1	21931 616
+31	37595	0.9	1	36979 616
+32	901	0.9	1	654 247
+33	33060	0.9	1	32435 625
+34	482	0.9	1	342 140
+35	15813	0.9	1	15351 462
+36	27729	0.9	1	27093 636
+37	12340	0.9	1	12082 258
+38	620	0.9	1	448 172
+39	12110	0.9	1	11782 328
+40	20150	0.9	1	19734 416
+41	16807	0.9	1	16535 272
+42	284	0.9	1	183 101
+43	502	0.9	1	416 86
+44	7337	0.9	1	7179 158
+45	7795	0.9	1	7497 298
+46	14131	0.9	1	13876 255
+47	5768	0.9	1	5666 102
+48	1356	0.9	1	1288 68
+49	187	0.9	1	119 68
+50	4848	0.9	1	4703 145
+51	4016	0.9	1	3907 109
+52	3433	0.9	1	3338 95
+53	3510	0.9	1	3385 125
+54	5405	0.9	1	5260 145
+55	2293	0.9	1	2147 146
+56	193	0.9	1	143 50
+57	3049	0.9	1	2944 105
+58	4708	0.9	1	4562 146
+59	314	0.9	1	275 39
+60	774	0.9	1	662 112
+61	3586	0.9	1	3509 77
+62	142	0.9	1	76 66
+63	85	0.9	1	59 26
+64	1508	0.9	1	1443 65
+65	133	0.9	1	96 37
+66	159	0.9	1	131 28
+67	556	0.9	1	458 98
+68	976	0.9	1	913 63
+69	677	0.9	1	561 116
+70	1036	0.9	1	971 65
+71	498	0.9	1	443 55
+72	325	0.9	1	242 83
+73	45	0.9	1	22 23
+74	86	0.9	1	57 29
+75	125	0.9	1	84 41
+76	125	0.9	1	87 38
+77	100	0.9	1	73 27
+78	103	0.9	1	55 48
+79	141	0.9	1	103 38
+80	105	0.9	1	59 46
+81	58	0.9	1	27 31
+82	48	0.9	1	8 40
+83	34	0.9	1	7 27
+84	53	0.9	1	14 39
+85	36	0.9	1	7 29
+86	17	0.9	1	2 15
+87	63	0.9	1	1 62
+88	51	0.9	1	1 50
+89	16	0.9	1	8 8
+90	65	0.9	1	4 61
+91	50	0.9	1	4 46
+92	106	0.9	1	6 100
+93	39	0.9	1	2 37
+94	27	0.9	1	1 26
+95	20	0.9	1	1 19
+96	40	0.9	1	4 36
+97	37	0.9	1	3 34
+98	85	0.9	1	2 83
+99	31	0.9	1	1 30
+100	18	0.9	1	0 18
+101	2944	0.9	1	1 2943
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001.fastq.gz
+=============================================
+60510870 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Writing report to '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001.fastq.gz_trimming_report.txt'
+
+SUMMARISING RUN PARAMETERS
+==========================
+Input filename: ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001.fastq.gz
+Trimming mode: paired-end
+Trim Galore version: 0.6.10
+Cutadapt version: 4.4
+Python version: could not detect
+Number of cores used for trimming: 4
+Quality Phred score cutoff: 20
+Quality encoding type selected: ASCII+33
+Adapter sequence: 'AGATCGGAAGAGC' (Illumina TruSeq, Sanger iPCR; auto-detected)
+Maximum trimming error rate: 0.1 (default)
+Minimum required adapter overlap (stringency): 1 bp
+Minimum required sequence length for both reads before a sequence pair gets removed: 20 bp
+Output file(s) will be GZIP compressed
+
+Cutadapt seems to be fairly up-to-date (version 4.4). Setting -j -j 4
+Writing final adapter and quality trimmed output to G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001_trimmed.fq.gz
+
+
+  >>> Now performing quality (cutoff '-q 20') and adapter trimming in a single pass for the adapter sequence: 'AGATCGGAAGAGC' from file ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001.fastq.gz <<< 
+20000000 sequences processed
+20000000 sequences processed
+30000000 sequences processed
+30000000 sequences processed
+10000000 sequences processed
+30000000 sequences processed
+30000000 sequences processed
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 283.373 s (7.891 µs/read; 7.60 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              35,908,896
+Reads with adapters:                16,188,121 (45.1%)
+Reads written (passing filters):    35,908,896 (100.0%)
+
+Total basepairs processed: 3,609,252,072 bp
+Quality-trimmed:               5,078,883 bp (0.1%)
+Total written (filtered):  3,576,635,088 bp (99.1%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 16188121 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 30.5%
+  C: 31.6%
+  G: 21.5%
+  T: 16.4%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	11025564	8977224.0	0	11025564
+2	3561018	2244306.0	0	3561018
+3	1040898	561076.5	0	1040898
+4	252728	140269.1	0	252728
+5	17356	35067.3	0	17356
+6	24247	8766.8	0	24247
+7	18407	2191.7	0	18407
+8	17798	547.9	0	17798
+9	16636	137.0	0	15551 1085
+10	16411	34.2	1	15065 1346
+11	14877	8.6	1	13491 1386
+12	25317	2.1	1	24871 446
+13	175	0.5	1	102 73
+14	12695	0.5	1	12473 222
+15	19348	0.5	1	19132 216
+16	189	0.5	1	132 57
+17	11571	0.5	1	11391 180
+18	6686	0.5	1	6582 104
+19	10088	0.5	1	9922 166
+20	6465	0.5	1	6375 90
+21	6438	0.5	1	6335 103
+22	6635	0.5	1	6539 96
+23	6068	0.5	1	5977 91
+24	5712	0.5	1	5617 95
+25	5471	0.5	1	5372 99
+26	4797	0.5	1	4687 110
+27	4648	0.5	1	4531 117
+28	4314	0.5	1	4254 60
+29	3751	0.5	1	3681 70
+30	3702	0.5	1	3646 56
+31	3101	0.5	1	3037 64
+32	2969	0.5	1	2912 57
+33	2755	0.5	1	2681 74
+34	2507	0.5	1	2460 47
+35	2353	0.5	1	2266 87
+36	2407	0.5	1	2346 61
+37	4971	0.5	1	4884 87
+38	212	0.5	1	141 71
+39	2681	0.5	1	2617 64
+40	49	0.5	1	29 20
+41	105	0.5	1	77 28
+42	1180	0.5	1	1113 67
+43	1125	0.5	1	1095 30
+44	994	0.5	1	945 49
+45	869	0.5	1	845 24
+46	856	0.5	1	806 50
+47	752	0.5	1	705 47
+48	795	0.5	1	758 37
+49	588	0.5	1	530 58
+50	634	0.5	1	586 48
+51	1373	0.5	1	1334 39
+52	54	0.5	1	19 35
+53	368	0.5	1	344 24
+54	63	0.5	1	13 50
+55	345	0.5	1	303 42
+56	352	0.5	1	317 35
+57	270	0.5	1	233 37
+58	285	0.5	1	246 39
+59	328	0.5	1	297 31
+60	379	0.5	1	349 30
+61	52	0.5	1	17 35
+62	386	0.5	1	357 29
+63	138	0.5	1	110 28
+64	35	0.5	1	11 24
+65	186	0.5	1	164 22
+66	90	0.5	1	65 25
+67	117	0.5	1	94 23
+68	157	0.5	1	131 26
+69	36	0.5	1	13 23
+70	117	0.5	1	87 30
+71	85	0.5	1	64 21
+72	93	0.5	1	52 41
+73	79	0.5	1	45 34
+74	54	0.5	1	35 19
+75	60	0.5	1	38 22
+76	48	0.5	1	18 30
+77	58	0.5	1	8 50
+78	17	0.5	1	2 15
+79	47	0.5	1	19 28
+80	42	0.5	1	11 31
+81	33	0.5	1	11 22
+82	13	0.5	1	1 12
+83	21	0.5	1	2 19
+84	30	0.5	1	3 27
+85	30	0.5	1	1 29
+86	19	0.5	1	3 16
+87	20	0.5	1	1 19
+88	18	0.5	1	2 16
+89	27	0.5	1	2 25
+90	30	0.5	1	1 29
+91	19	0.5	1	1 18
+92	26	0.5	1	3 23
+93	28	0.5	1	4 24
+94	8	0.5	1	0 8
+95	19	0.5	1	0 19
+96	24	0.5	1	0 24
+97	19	0.5	1	0 19
+98	51	0.5	1	2 49
+99	28	0.5	1	0 28
+100	22	0.5	1	0 22
+101	9	0.5	1	0 9
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001.fastq.gz
+=============================================
+35908896 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Validate paired-end files G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001_trimmed.fq.gz and G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001_trimmed.fq.gz
+file_1: G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001_trimmed.fq.gz, file_2: G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001_trimmed.fq.gz
+
+
+>>>>> Now validing the length of the 2 paired-end infiles: G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001_trimmed.fq.gz and G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001_trimmed.fq.gz <<<<<
+Writing validated paired-end Read 1 reads to G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001_val_1.fq.gz
+Writing validated paired-end Read 2 reads to G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001_val_2.fq.gz
+
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 302.518 s (7.810 µs/read; 7.68 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              38,735,192
+Reads with adapters:                17,876,458 (46.2%)
+Reads written (passing filters):    38,735,192 (100.0%)
+
+Total basepairs processed: 3,893,341,474 bp
+Quality-trimmed:               8,642,885 bp (0.2%)
+Total written (filtered):  3,831,210,468 bp (98.4%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 17876458 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 29.6%
+  C: 31.6%
+  G: 23.5%
+  T: 15.3%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	11603706	9683798.0	0	11603706
+2	3769427	2420949.5	0	3769427
+3	1109925	605237.4	0	1109925
+4	322490	151309.3	0	322490
+5	18787	37827.3	0	18787
+6	56011	9456.8	0	56011
+7	42938	2364.2	0	42938
+8	40647	591.1	0	40647
+9	34569	147.8	0	33517 1052
+10	35383	36.9	1	33689 1694
+11	33404	9.2	1	31689 1715
+12	61584	2.3	1	60784 800
+13	592	0.6	1	341 251
+14	32274	0.6	1	31643 631
+15	51090	0.6	1	50561 529
+16	652	0.6	1	415 237
+17	27882	0.6	1	27438 444
+18	23170	0.6	1	22796 374
+19	24520	0.6	1	24127 393
+20	23875	0.6	1	23440 435
+21	22960	0.6	1	22566 394
+22	22425	0.6	1	22067 358
+23	21195	0.6	1	20829 366
+24	19866	0.6	1	19482 384
+25	19919	0.6	1	19616 303
+26	17030	0.6	1	16703 327
+27	17993	0.6	1	17551 442
+28	16896	0.6	1	16638 258
+29	15051	0.6	1	14735 316
+30	15245	0.6	1	15000 245
+31	13503	0.6	1	13239 264
+32	13665	0.6	1	13436 229
+33	13404	0.6	1	13063 341
+34	32670	0.6	1	32232 438
+35	1085	0.6	1	952 133
+36	12142	0.6	1	11906 236
+37	24010	0.6	1	23815 195
+38	512	0.6	1	407 105
+39	105	0.6	1	65 40
+40	625	0.6	1	553 72
+41	9480	0.6	1	9302 178
+42	7003	0.6	1	6875 128
+43	6780	0.6	1	6659 121
+44	7113	0.6	1	6965 148
+45	6500	0.6	1	6354 146
+46	6275	0.6	1	6173 102
+47	6567	0.6	1	6441 126
+48	7218	0.6	1	7085 133
+49	5049	0.6	1	4909 140
+50	5627	0.6	1	5473 154
+51	20157	0.6	1	19956 201
+52	550	0.6	1	439 111
+53	8001	0.6	1	7888 113
+54	360	0.6	1	260 100
+55	6135	0.6	1	6035 100
+56	7272	0.6	1	7161 111
+57	7925	0.6	1	7791 134
+58	10678	0.6	1	10499 179
+59	12713	0.6	1	12523 190
+60	13765	0.6	1	13619 146
+61	607	0.6	1	504 103
+62	22718	0.6	1	22453 265
+63	8133	0.6	1	8020 113
+64	474	0.6	1	377 97
+65	11183	0.6	1	11060 123
+66	5070	0.6	1	4989 81
+67	6518	0.6	1	6401 117
+68	11398	0.6	1	11284 114
+69	812	0.6	1	736 76
+70	9681	0.6	1	9558 123
+71	8106	0.6	1	8014 92
+72	5743	0.6	1	5615 128
+73	4283	0.6	1	4195 88
+74	2985	0.6	1	2933 52
+75	2710	0.6	1	2672 38
+76	1724	0.6	1	1682 42
+77	929	0.6	1	877 52
+78	210	0.6	1	183 27
+79	1410	0.6	1	1371 39
+80	1615	0.6	1	1586 29
+81	511	0.6	1	485 26
+82	567	0.6	1	555 12
+83	122	0.6	1	96 26
+84	95	0.6	1	55 40
+85	21	0.6	1	7 14
+86	32	0.6	1	10 22
+87	9	0.6	1	2 7
+88	32	0.6	1	1 31
+89	23	0.6	1	5 18
+90	26	0.6	1	3 23
+91	20	0.6	1	2 18
+92	34	0.6	1	4 30
+93	18	0.6	1	1 17
+94	11	0.6	1	0 11
+95	30	0.6	1	1 29
+96	36	0.6	1	1 35
+97	28	0.6	1	0 28
+98	57	0.6	1	1 56
+99	29	0.6	1	0 29
+100	19	0.6	1	0 19
+101	34	0.6	1	25 9
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001.fastq.gz
+=============================================
+38735192 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Validate paired-end files G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001_trimmed.fq.gz and G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001_trimmed.fq.gz
+file_1: G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001_trimmed.fq.gz, file_2: G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001_trimmed.fq.gz
+
+
+>>>>> Now validing the length of the 2 paired-end infiles: G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001_trimmed.fq.gz and G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001_trimmed.fq.gz <<<<<
+Writing validated paired-end Read 1 reads to G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001_val_1.fq.gz
+Writing validated paired-end Read 2 reads to G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001_val_2.fq.gz
+
+20000000 sequences processed
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 315.418 s (7.904 µs/read; 7.59 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              39,903,934
+Reads with adapters:                17,853,949 (44.7%)
+Reads written (passing filters):    39,903,934 (100.0%)
+
+Total basepairs processed: 4,010,356,977 bp
+Quality-trimmed:              12,731,522 bp (0.3%)
+Total written (filtered):  3,963,408,612 bp (98.8%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 17853949 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 30.1%
+  C: 32.4%
+  G: 22.5%
+  T: 14.9%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	11961970	9975983.5	0	11961970
+2	3930263	2493995.9	0	3930263
+3	1147804	623499.0	0	1147804
+4	297125	155874.7	0	297125
+5	21089	38968.7	0	21089
+6	35177	9742.2	0	35177
+7	27811	2435.5	0	27811
+8	28010	608.9	0	28010
+9	23410	152.2	0	22277 1133
+10	24847	38.1	1	23108 1739
+11	22736	9.5	1	21186 1550
+12	40149	2.4	1	39362 787
+13	496	0.6	1	307 189
+14	20065	0.6	1	19509 556
+15	32441	0.6	1	31946 495
+16	457	0.6	1	300 157
+17	18858	0.6	1	18429 429
+18	11918	0.6	1	11686 232
+19	16204	0.6	1	15832 372
+20	12068	0.6	1	11793 275
+21	11425	0.6	1	11178 247
+22	11849	0.6	1	11591 258
+23	10866	0.6	1	10603 263
+24	10173	0.6	1	9951 222
+25	10098	0.6	1	9882 216
+26	8689	0.6	1	8458 231
+27	8886	0.6	1	8621 265
+28	8069	0.6	1	7901 168
+29	7650	0.6	1	7437 213
+30	7038	0.6	1	6886 152
+31	6467	0.6	1	6310 157
+32	5899	0.6	1	5743 156
+33	5810	0.6	1	5642 168
+34	9613	0.6	1	9447 166
+35	484	0.6	1	391 93
+36	5031	0.6	1	4884 147
+37	11242	0.6	1	11042 200
+38	461	0.6	1	384 77
+39	6081	0.6	1	5982 99
+40	111	0.6	1	77 34
+41	227	0.6	1	164 63
+42	3000	0.6	1	2907 93
+43	2591	0.6	1	2527 64
+44	2524	0.6	1	2452 72
+45	2217	0.6	1	2145 72
+46	2007	0.6	1	1937 70
+47	1837	0.6	1	1773 64
+48	1960	0.6	1	1898 62
+49	1603	0.6	1	1527 76
+50	1611	0.6	1	1548 63
+51	3668	0.6	1	3600 68
+52	88	0.6	1	59 29
+53	1036	0.6	1	1001 35
+54	89	0.6	1	41 48
+55	980	0.6	1	933 47
+56	893	0.6	1	840 53
+57	755	0.6	1	717 38
+58	780	0.6	1	720 60
+59	904	0.6	1	842 62
+60	1012	0.6	1	979 33
+61	63	0.6	1	35 28
+62	999	0.6	1	945 54
+63	440	0.6	1	393 47
+64	55	0.6	1	21 34
+65	491	0.6	1	460 31
+66	272	0.6	1	251 21
+67	283	0.6	1	244 39
+68	491	0.6	1	455 36
+69	65	0.6	1	32 33
+70	334	0.6	1	309 25
+71	285	0.6	1	253 32
+72	251	0.6	1	211 40
+73	193	0.6	1	152 41
+74	148	0.6	1	119 29
+75	150	0.6	1	127 23
+76	106	0.6	1	71 35
+77	78	0.6	1	39 39
+78	19	0.6	1	6 13
+79	54	0.6	1	28 26
+80	60	0.6	1	33 27
+81	27	0.6	1	14 13
+82	25	0.6	1	6 19
+83	31	0.6	1	5 26
+84	43	0.6	1	7 36
+85	21	0.6	1	3 18
+86	18	0.6	1	4 14
+87	20	0.6	1	1 19
+88	22	0.6	1	7 15
+89	15	0.6	1	6 9
+90	28	0.6	1	2 26
+91	21	0.6	1	0 21
+92	10	0.6	1	1 9
+93	28	0.6	1	0 28
+94	9	0.6	1	0 9
+95	19	0.6	1	2 17
+96	18	0.6	1	0 18
+97	35	0.6	1	0 35
+98	44	0.6	1	0 44
+99	25	0.6	1	0 25
+100	28	0.6	1	0 28
+101	3	0.6	1	1 2
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001.fastq.gz
+=============================================
+39903934 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Validate paired-end files G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001_trimmed.fq.gz and G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001_trimmed.fq.gz
+file_1: G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001_trimmed.fq.gz, file_2: G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001_trimmed.fq.gz
+
+
+>>>>> Now validing the length of the 2 paired-end infiles: G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001_trimmed.fq.gz and G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001_trimmed.fq.gz <<<<<
+Writing validated paired-end Read 1 reads to G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001_val_1.fq.gz
+Writing validated paired-end Read 2 reads to G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001_val_2.fq.gz
+
+40000000 sequences processed
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 333.663 s (7.909 µs/read; 7.59 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              42,185,434
+Reads with adapters:                19,104,522 (45.3%)
+Reads written (passing filters):    42,185,434 (100.0%)
+
+Total basepairs processed: 4,240,001,620 bp
+Quality-trimmed:              10,427,661 bp (0.2%)
+Total written (filtered):  4,191,166,902 bp (98.8%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 19104522 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 30.1%
+  C: 32.1%
+  G: 22.4%
+  T: 15.4%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	12737482	10546358.5	0	12737482
+2	4155502	2636589.6	0	4155502
+3	1231449	659147.4	0	1231449
+4	325255	164786.9	0	325255
+5	20804	41196.7	0	20804
+6	42942	10299.2	0	42942
+7	35459	2574.8	0	35459
+8	35466	643.7	0	35466
+9	30968	160.9	0	29739 1229
+10	31576	40.2	1	29647 1929
+11	29402	10.1	1	27616 1786
+12	52343	2.5	1	51451 892
+13	480	0.6	1	331 149
+14	25880	0.6	1	25362 518
+15	42128	0.6	1	41595 533
+16	516	0.6	1	407 109
+17	23961	0.6	1	23554 407
+18	15819	0.6	1	15572 247
+19	20481	0.6	1	20131 350
+20	16330	0.6	1	16062 268
+21	14914	0.6	1	14674 240
+22	15115	0.6	1	14875 240
+23	14037	0.6	1	13772 265
+24	13559	0.6	1	13308 251
+25	13210	0.6	1	12988 222
+26	11644	0.6	1	11435 209
+27	11213	0.6	1	10947 266
+28	10540	0.6	1	10369 171
+29	9456	0.6	1	9299 157
+30	9798	0.6	1	9643 155
+31	7575	0.6	1	7441 134
+32	8393	0.6	1	8243 150
+33	6905	0.6	1	6786 119
+34	6582	0.6	1	6453 129
+35	5823	0.6	1	5698 125
+36	5754	0.6	1	5667 87
+37	5891	0.6	1	5758 133
+38	5326	0.6	1	5172 154
+39	12673	0.6	1	12499 174
+40	706	0.6	1	650 56
+41	11341	0.6	1	11199 142
+42	116	0.6	1	52 64
+43	63	0.6	1	22 41
+44	124	0.6	1	62 62
+45	188	0.6	1	145 43
+46	2416	0.6	1	2355 61
+47	2300	0.6	1	2230 70
+48	2444	0.6	1	2378 66
+49	1903	0.6	1	1818 85
+50	2091	0.6	1	2027 64
+51	4447	0.6	1	4362 85
+52	96	0.6	1	67 29
+53	1207	0.6	1	1141 66
+54	126	0.6	1	41 85
+55	1120	0.6	1	1066 54
+56	1082	0.6	1	1034 48
+57	928	0.6	1	885 43
+58	934	0.6	1	892 42
+59	1053	0.6	1	987 66
+60	1266	0.6	1	1226 40
+61	59	0.6	1	35 24
+62	1098	0.6	1	1050 48
+63	409	0.6	1	377 32
+64	45	0.6	1	17 28
+65	569	0.6	1	527 42
+66	324	0.6	1	276 48
+67	321	0.6	1	291 30
+68	529	0.6	1	487 42
+69	79	0.6	1	31 48
+70	367	0.6	1	335 32
+71	334	0.6	1	286 48
+72	312	0.6	1	252 60
+73	176	0.6	1	137 39
+74	146	0.6	1	119 27
+75	137	0.6	1	122 15
+76	111	0.6	1	83 28
+77	95	0.6	1	49 46
+78	46	0.6	1	23 23
+79	66	0.6	1	33 33
+80	80	0.6	1	51 29
+81	39	0.6	1	23 16
+82	20	0.6	1	5 15
+83	34	0.6	1	7 27
+84	49	0.6	1	5 44
+85	30	0.6	1	3 27
+86	17	0.6	1	2 15
+87	26	0.6	1	2 24
+88	27	0.6	1	2 25
+89	27	0.6	1	1 26
+90	33	0.6	1	1 32
+91	15	0.6	1	1 14
+92	41	0.6	1	1 40
+93	28	0.6	1	0 28
+94	14	0.6	1	0 14
+95	21	0.6	1	1 20
+96	27	0.6	1	1 26
+97	26	0.6	1	0 26
+98	69	0.6	1	1 68
+99	39	0.6	1	0 39
+100	25	0.6	1	0 25
+101	10	0.6	1	1 9
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001.fastq.gz
+=============================================
+42185434 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Validate paired-end files G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001_trimmed.fq.gz and G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001_trimmed.fq.gz
+file_1: G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001_trimmed.fq.gz, file_2: G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001_trimmed.fq.gz
+
+
+>>>>> Now validing the length of the 2 paired-end infiles: G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001_trimmed.fq.gz and G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001_trimmed.fq.gz <<<<<
+Writing validated paired-end Read 1 reads to G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001_val_1.fq.gz
+Writing validated paired-end Read 2 reads to G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001_val_2.fq.gz
+
+30000000 sequences processed
+40000000 sequences processed
+Total number of sequences analysed: 35908896
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 19017 (0.05%)
+
+Deleting both intermediate output files G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R1_001_trimmed.fq.gz and G213_Watkins07_AVR_r17115_B_D168_RNA1_Lib1_GL104_S25_R2_001_trimmed.fq.gz
+
+====================================================================================================
+
+50000000 sequences processed
+Total number of sequences analysed: 38735192
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 50397 (0.13%)
+
+Deleting both intermediate output files G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R1_001_trimmed.fq.gz and G210_Watkins07_AVR_r14065_B_D168_RNA2_Lib1_GL104_S2_R2_001_trimmed.fq.gz
+
+====================================================================================================
+
+60000000 sequences processed
+This is cutadapt 4.4 with Python 3.10.10
+Command line parameters: -j 4 -e 0.1 -q 20 -O 1 -a AGATCGGAAGAGC ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001.fastq.gz
+Processing single-end reads on 4 cores ...
+Finished in 478.234 s (7.903 µs/read; 7.59 M reads/minute).
+
+=== Summary ===
+
+Total reads processed:              60,510,870
+Reads with adapters:                27,714,766 (45.8%)
+Reads written (passing filters):    60,510,870 (100.0%)
+
+Total basepairs processed: 6,081,913,363 bp
+Quality-trimmed:              12,714,097 bp (0.2%)
+Total written (filtered):  6,003,855,405 bp (98.7%)
+
+=== Adapter 1 ===
+
+Sequence: AGATCGGAAGAGC; Type: regular 3'; Length: 13; Trimmed: 27714766 times
+
+Minimum overlap: 1
+No. of allowed errors:
+1-9 bp: 0; 10-13 bp: 1
+
+Bases preceding removed adapters:
+  A: 29.4%
+  C: 32.4%
+  G: 22.9%
+  T: 15.3%
+  none/other: 0.0%
+
+Overview of removed sequences
+length	count	expect	max.err	error counts
+1	18105896	15127717.5	0	18105896
+2	5934635	3781929.4	0	5934635
+3	1747482	945482.3	0	1747482
+4	500183	236370.6	0	500183
+5	29989	59092.6	0	29989
+6	82766	14773.2	0	82766
+7	71829	3693.3	0	71829
+8	70578	923.3	0	70578
+9	65877	230.8	0	64071 1806
+10	65969	57.7	1	63558 2411
+11	59479	14.4	1	57046 2433
+12	110572	3.6	1	109236 1336
+13	890	0.9	1	646 244
+14	57147	0.9	1	56249 898
+15	92761	0.9	1	91882 879
+16	859	0.9	1	688 171
+17	55547	0.9	1	54815 732
+18	33561	0.9	1	33163 398
+19	48123	0.9	1	47527 596
+20	34727	0.9	1	34309 418
+21	33526	0.9	1	33114 412
+22	34773	0.9	1	34362 411
+23	32594	0.9	1	32155 439
+24	32535	0.9	1	32044 491
+25	31025	0.9	1	30670 355
+26	26919	0.9	1	26538 381
+27	26285	0.9	1	25854 431
+28	27107	0.9	1	26835 272
+29	20550	0.9	1	20289 261
+30	24561	0.9	1	24300 261
+31	17459	0.9	1	17246 213
+32	20418	0.9	1	20167 251
+33	16603	0.9	1	16402 201
+34	15739	0.9	1	15501 238
+35	15279	0.9	1	15074 205
+36	14614	0.9	1	14424 190
+37	25315	0.9	1	25041 274
+38	453	0.9	1	384 69
+39	12376	0.9	1	12160 216
+40	10958	0.9	1	10849 109
+41	10053	0.9	1	9899 154
+42	15945	0.9	1	15745 200
+43	339	0.9	1	294 45
+44	7803	0.9	1	7696 107
+45	6420	0.9	1	6307 113
+46	6118	0.9	1	6032 86
+47	5837	0.9	1	5731 106
+48	5970	0.9	1	5863 107
+49	4799	0.9	1	4698 101
+50	4534	0.9	1	4440 94
+51	10502	0.9	1	10375 127
+52	185	0.9	1	123 62
+53	2824	0.9	1	2744 80
+54	140	0.9	1	87 53
+55	2746	0.9	1	2678 68
+56	2632	0.9	1	2542 90
+57	1954	0.9	1	1905 49
+58	2081	0.9	1	2025 56
+59	2193	0.9	1	2149 44
+60	2746	0.9	1	2703 43
+61	105	0.9	1	67 38
+62	2497	0.9	1	2423 74
+63	830	0.9	1	799 31
+64	68	0.9	1	30 38
+65	1153	0.9	1	1110 43
+66	561	0.9	1	500 61
+67	663	0.9	1	625 38
+68	1173	0.9	1	1130 43
+69	109	0.9	1	59 50
+70	735	0.9	1	692 43
+71	551	0.9	1	500 51
+72	429	0.9	1	368 61
+73	377	0.9	1	325 52
+74	237	0.9	1	214 23
+75	199	0.9	1	170 29
+76	178	0.9	1	141 37
+77	120	0.9	1	76 44
+78	48	0.9	1	18 30
+79	91	0.9	1	57 34
+80	75	0.9	1	44 31
+81	52	0.9	1	28 24
+82	36	0.9	1	9 27
+83	32	0.9	1	6 26
+84	68	0.9	1	13 55
+85	31	0.9	1	5 26
+86	30	0.9	1	3 27
+87	52	0.9	1	1 51
+88	31	0.9	1	0 31
+89	35	0.9	1	8 27
+90	41	0.9	1	3 38
+91	44	0.9	1	5 39
+92	28	0.9	1	4 24
+93	28	0.9	1	2 26
+94	12	0.9	1	0 12
+95	28	0.9	1	0 28
+96	27	0.9	1	4 23
+97	38	0.9	1	2 36
+98	89	0.9	1	0 89
+99	46	0.9	1	0 46
+100	24	0.9	1	0 24
+101	15	0.9	1	1 14
+
+RUN STATISTICS FOR INPUT FILE: ../final-fastq-set/rerun/G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001.fastq.gz
+=============================================
+60510870 sequences processed in total
+The length threshold of paired-end sequences gets evaluated later on (in the validation step)
+
+Validate paired-end files G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001_trimmed.fq.gz and G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001_trimmed.fq.gz
+file_1: G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001_trimmed.fq.gz, file_2: G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001_trimmed.fq.gz
+
+
+>>>>> Now validing the length of the 2 paired-end infiles: G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001_trimmed.fq.gz and G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001_trimmed.fq.gz <<<<<
+Writing validated paired-end Read 1 reads to G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001_val_1.fq.gz
+Writing validated paired-end Read 2 reads to G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001_val_2.fq.gz
+
+Total number of sequences analysed: 39903934
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 70576 (0.18%)
+
+Deleting both intermediate output files G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R1_001_trimmed.fq.gz and G214_Watkins07_AVR_rh2932_B_D168_RNA1_Lib1_GL102_S7_R2_001_trimmed.fq.gz
+
+====================================================================================================
+
+Total number of sequences analysed: 42185434
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 55308 (0.13%)
+
+Deleting both intermediate output files G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R1_001_trimmed.fq.gz and G212_Watkins07_AVR_r17017_B_D168_RNA1_Lib1_GL102_S86_R2_001_trimmed.fq.gz
+
+====================================================================================================
+
+Total number of sequences analysed: 60510870
+
+Number of sequence pairs removed because at least one read was shorter than the length cutoff (20 bp): 67072 (0.11%)
+
+Deleting both intermediate output files G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R1_001_trimmed.fq.gz and G209_Watkins07_AVR_r08014_B_D168_RNA1_Lib1_GL105_S60_R2_001_trimmed.fq.gz
+
+====================================================================================================
+

@@ -1,0 +1,1328 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G430_Watkins07_AVR_rh3036_B_D7-SIV_RNA1_Lib1_GL102_S67_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G431_Watkins07_AVR_rh3036_B_D10-SIV_RNA1_Lib1_GL102_S35_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G432_Watkins07_AVR_rh3036_B_D14-SIV_RNA1_Lib1_GL104_S41_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G433_Watkins07_AVR_rh3037_B_D0-SIV_RNA1_Lib1_GL102_S92_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G434_Watkins07_AVR_rh3037_B_D3-SIV_RNA1_Lib1_GL105_S58_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G435_Watkins07_AVR_rh3037_B_D7-SIV_RNA1_Lib1_GL104_S58_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G436_Watkins07_AVR_rh3037_B_D10-SIV_RNA1_Lib1_GL104_S88_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G437_Watkins07_AVR_rh3037_B_D14-SIV_RNA1_Lib1_GL102_S30_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G438_Watkins07_AVR_rh3045_B_D0-SIV_RNA1_Lib1_GL105_S84_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 5% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 10% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 15% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 20% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 25% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 30% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 35% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 40% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 45% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 50% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 55% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 60% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 65% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 70% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 75% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 80% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 85% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 90% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+Approx 95% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.1.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Started analysis of G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 5% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 10% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 15% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 20% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 25% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 30% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 35% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 40% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 45% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 50% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 55% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 60% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 65% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 70% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 75% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 80% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 85% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 90% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+Approx 95% complete for G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_nohmrRNA_noglobin.fastq.2.gz
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Skipping '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/rw/G454_Watkins07_Unvax_rh2995_B_D7_RNA1_Lib1_GL104_S92_nohmrRNA_noglobin.fastq.1.gz' which didn't exist, or couldn't be read
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Skipping '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/rw/G454_Watkins07_Unvax_rh2995_B_D7_RNA1_Lib1_GL104_S92_nohmrRNA_noglobin.fastq.2.gz' which didn't exist, or couldn't be read
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Skipping '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/rw/G455_Watkins07_AVR_rh3033_B_D7-SIV_RNA1_Lib1_GL105_S99_nohmrRNA_noglobin.fastq.1.gz' which didn't exist, or couldn't be read
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+Skipping '/vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/nohmrRNA_noglobin/rw/G455_Watkins07_AVR_rh3033_B_D7-SIV_RNA1_Lib1_GL105_S99_nohmrRNA_noglobin.fastq.2.gz' which didn't exist, or couldn't be read

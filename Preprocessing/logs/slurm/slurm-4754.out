@@ -1,0 +1,72 @@
+perl: warning: Setting locale failed.
+perl: warning: Please check that your locale settings:
+	LANGUAGE = (unset),
+	LC_ALL = (unset),
+	LANG = "C.UTF-8"
+    are supported and installed on your system.
+perl: warning: Falling back to the standard locale ("C").
+/share/tools/Modules/bowtie2/2.5.1/bin/bowtie2-align-s version 2.5.1
+64-bit
+Built on fv-az456-736
+Tue Jan 31 02:50:17 UTC 2023
+Compiler: gcc version 10.4.0 (conda-forge gcc 10.4.0-19) 
+Options: -O3 -msse2 -funroll-loops -g3 -fvisibility-inlines-hidden -std=c++17 -fmessage-length=0 -march=nocona -mtune=haswell -ftree-vectorize -fPIC -fstack-protector-strong -fno-plt -O2 -ffunction-sections -pipe -isystem /share/tools/Modules/bowtie2/2.5.1/include -fdebug-prefix-map=/opt/conda/conda-bld/bowtie2_1675132819676/work=/usr/local/src/conda/bowtie2-2.5.1 -fdebug-prefix-map=/share/tools/Modules/bowtie2/2.5.1=/usr/local/src/conda-prefix -std=c++11 -DPOPCNT_CAPABILITY -DNO_SPINLOCK -DWITH_QUEUELOCK=1 -DWITH_ZSTD
+Sizeof {int, long, long long, void*, size_t, off_t}: {4, 8, 8, 8, 8, 8}
+Number samples = 17 R1 files, should be <36
+Number samples = 17 R2 files, should be <36
+Counter variable 0
+Sample being processed G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G439_Watkins07_AVR_rh3045_B_D3-SIV_RNA1_Lib1_GL102_S45_R2_001_val_2.fq.gz
+Sample being processed G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G440_Watkins07_AVR_rh3045_B_D7-SIV_RNA1_Lib1_GL104_S12_R2_001_val_2.fq.gz
+Sample being processed G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G441_Watkins07_AVR_rh3045_B_D10-SIV_RNA1_Lib1_GL102_S24_R2_001_val_2.fq.gz
+Sample being processed G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G442_Watkins07_AVR_rh3045_B_D14-SIV_RNA1_Lib1_GL102_S10_R2_001_val_2.fq.gz
+Counter variable 4
+Sample being processed G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G443_Watkins07_AVR_rh3048_B_D0-SIV_RNA1_Lib1_GL102_S91_R2_001_val_2.fq.gz
+Sample being processed G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G444_Watkins07_AVR_rh3048_B_D3-SIV_RNA1_Lib1_GL104_S56_R2_001_val_2.fq.gz
+Sample being processed G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G445_Watkins07_AVR_rh3048_B_D7-SIV_RNA1_Lib1_GL105_S88_R2_001_val_2.fq.gz
+Sample being processed G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G446_Watkins07_AVR_rh3048_B_D10-SIV_RNA1_Lib1_GL104_S97_R2_001_val_2.fq.gz
+Counter variable 8
+Sample being processed G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G447_Watkins07_AVR_rh3048_B_D14-SIV_RNA1_Lib1_GL104_S18_R2_001_val_2.fq.gz
+Sample being processed G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G448_Watkins07_AVR_rh3053_B_D-7-SIV_RNA1_Lib1_GL104_S35_R2_001_val_2.fq.gz
+Sample being processed G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G449_Watkins07_AVR_rh3053_B_D3-SIV_RNA1_Lib1_GL104_S75_R2_001_val_2.fq.gz
+Sample being processed G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G450_Watkins07_AVR_rh3053_B_D7-SIV_RNA1_Lib1_GL104_S46_R2_001_val_2.fq.gz
+Counter variable 12
+Sample being processed G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G451_Watkins07_AVR_rh3053_B_D10-SIV_RNA1_Lib1_GL104_S70_R2_001_val_2.fq.gz
+Sample being processed G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G452_Watkins07_AVR_rh3053_B_D14-SIV_RNA1_Lib1_GL105_S91_R2_001_val_2.fq.gz
+Sample being processed G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G453_Watkins07_AVR_rh3053_B_D0_RNA1_Lib1_GL104_S27_R2_001_val_2.fq.gz
+Sample being processed G454_Watkins07_Unvax_rh2995_B_D7_RNA1_Lib1_GL104_S92
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G454_Watkins07_Unvax_rh2995_B_D7_RNA1_Lib1_GL104_S92_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G454_Watkins07_Unvax_rh2995_B_D7_RNA1_Lib1_GL104_S92_R2_001_val_2.fq.gz
+Counter variable 16
+Sample being processed G455_Watkins07_AVR_rh3033_B_D7-SIV_RNA1_Lib1_GL105_S99
+Read 1 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G455_Watkins07_AVR_rh3033_B_D7-SIV_RNA1_Lib1_GL105_S99_R1_001_val_1.fq.gz
+Read 2 file /vol08/ngs/Seattle_Genomics/Collaborations/SG_Watkins/Watkins_07_WB/SawatzkiAnalysis/trimgalore_results/roundworm/G455_Watkins07_AVR_rh3033_B_D7-SIV_RNA1_Lib1_GL105_S99_R2_001_val_2.fq.gz
